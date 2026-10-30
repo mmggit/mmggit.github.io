@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Legal &amp; Compliance - OVI Wellness</title>
+    <meta name="description" content="Legal, privacy, and compliance disclosures for OVI Wellness.">
+    <link rel="canonical" href="https://oviwellness.com/legal">
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://oviwellness.com/legal">
+    <meta property="og:title" content="Legal &amp; Compliance - OVI Wellness">
+    <meta property="og:description" content="Legal &amp; Compliance information for OVI Wellness.">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary">
+    <meta property="twitter:url" content="https://oviwellness.com/legal">
+    <meta property="twitter:title" content="Legal &amp; Compliance - OVI Wellness">
+    <meta property="twitter:description" content="Legal &amp; Compliance information for OVI Wellness.">
+    <!-- Core CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <link href="assets/css/main.css?v=1.5" rel="stylesheet">
+    <link rel="icon" href="assets/images/icons/icon.svg" type="image/svg+xml">
+    <link rel="icon" href="assets/images/icons/icon.ico" sizes="32x32">
+    <link rel="apple-touch-icon" href="assets/images/icons/icon.png">
+    <script>
+        // Synchronously inject temporary stylesheet to prevent Flash of Wrong Tab (FOWT) on load
+        (function() {
+            const hash = window.location.hash;
+            if (hash && hash !== '#privacy' && hash !== '#v-pills-privacy') {
+                const cleanHash = hash.startsWith('#v-pills-') ? hash : hash.replace('#', '#v-pills-');
+                const targetBtnId = cleanHash + '-tab';
+                
+                const style = document.createElement('style');
+                style.id = 'fowt-style';
+                style.innerHTML = `
+                    /* Hide default privacy pane & show target pane */
+                    #v-pills-privacy { display: none !important; }
+                    ${cleanHash} { display: block !important; opacity: 1 !important; }
+
+                    /* Reset default privacy tab button highlight */
+                    #v-pills-privacy-tab {
+                        color: rgba(255, 255, 255, 0.75) !important;
+                        background-color: transparent !important;
+                        border-left: 3px solid transparent !important;
+                    }
+
+                    /* Apply theme active highlight to target tab button */
+                    ${targetBtnId} {
+                        color: var(--primary-color) !important;
+                        background-color: rgba(230, 195, 129, 0.1) !important;
+                        border-left: 3px solid var(--primary-color) !important;
+                    }
+                `;
+                document.head.appendChild(style);
+            }
+        })();
+    </script>
+</head>
+<body class="bg-dark text-white">
+    <!-- Navbar injected by components.js?v=1.4 -->
+    <div id="navbar-root"></div>
+
+    <main class="container py-5" style="margin-top: 100px; min-height: 70vh;">
+        <h1 class="font-family-bebas text-primary mb-5 text-center"></h1>
+        
+        <div class="row g-5">
+            <div class="col-md-4 col-lg-3">
+                <div class="nav flex-column nav-pills compliance-nav-pills sticky-top" id="v-pills-tab" role="tablist" aria-orientation="vertical" style="top: 120px;">
+                    <button class="nav-link active" id="v-pills-privacy-tab" data-bs-toggle="pill" data-bs-target="#v-pills-privacy" type="button" role="tab" aria-controls="v-pills-privacy" aria-selected="true"></button>
+                    <button class="nav-link" id="v-pills-hipaa-tab" data-bs-toggle="pill" data-bs-target="#v-pills-hipaa" type="button" role="tab" aria-controls="v-pills-hipaa" aria-selected="false"></button>
+                </div>
+            </div>
+            <div class="col-md-8 col-lg-9">
+                <div class="bg-dark bg-opacity-50 p-4 p-md-5 rounded border border-secondary h-100">
+                    <p class="text-primary border-bottom border-secondary pb-3 mb-4"></p>
+
+                    <div class="tab-content text-white-75 lh-lg" id="v-pills-tabContent">
+                        <div class="tab-pane fade show active" id="v-pills-privacy" role="tabpanel" aria-labelledby="v-pills-privacy-tab"></div>
+                        <div class="tab-pane fade" id="v-pills-hipaa" role="tabpanel" aria-labelledby="v-pills-hipaa-tab"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Shared footer injected by components.js?v=1.4 -->
+    <div id="footer-root"></div>
+
+    <!-- Core Scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/i18n/i18n.js?v=1.8"></script>
+    <script src="assets/js/renderers/legal-renderer.js"></script>
+    <script src="assets/js/core/components.js?v=1.8"></script>
+    <script src="assets/js/core/component-loader.js"></script>
+    <script src="assets/js/core/main.js?v=1.5"></script>
+    <script>
+        // Handle URL hash to open correct tab on load or hash change
+        document.addEventListener('DOMContentLoaded', () => {
+            function handleHash(isInitialLoad = false) {
+                const hash = window.location.hash;
+                if (hash) {
+                    // Map clean hashes (e.g., #privacy) to v-pills ID selectors (e.g., #v-pills-privacy)
+                    const cleanHash = hash.startsWith('#v-pills-') ? hash : hash.replace('#', '#v-pills-');
+                    const tabBtn = document.querySelector(`button[data-bs-target="${cleanHash}"]`);
+                    
+                    if (tabBtn) {
+                        if (isInitialLoad) {
+                            // Temporarily remove fade class to disable transition animations on load
+                            const panes = document.querySelectorAll('.tab-pane');
+                            panes.forEach(pane => pane.classList.remove('fade'));
+
+                            // Swap active classes synchronously to avoid transition fade-in flash on load
+                            const defaultTabBtn = document.getElementById('v-pills-privacy-tab');
+                            const defaultTabPane = document.getElementById('v-pills-privacy');
+                            if (defaultTabBtn && defaultTabPane && defaultTabBtn !== tabBtn) {
+                                defaultTabBtn.classList.remove('active');
+                                defaultTabBtn.setAttribute('aria-selected', 'false');
+                                defaultTabPane.classList.remove('show', 'active');
+                            }
+                            
+                            const targetTabPane = document.querySelector(cleanHash);
+                            if (targetTabPane) {
+                                tabBtn.classList.add('active');
+                                tabBtn.setAttribute('aria-selected', 'true');
+                                targetTabPane.classList.add('show', 'active');
+                            }
+
+                            // Force reflow to commit layout changes instantly without transitions
+                            void document.body.offsetHeight;
+
+                            // Restore fade class for smooth transitions on subsequent clicks
+                            panes.forEach(pane => pane.classList.add('fade'));
+                        } else {
+                            // On subsequent changes, use standard Bootstrap transition
+                            const tabInstance = new bootstrap.Tab(tabBtn);
+                            tabInstance.show();
+                        }
+                    }
+                }
+            }
+
+            // Run on initial load
+            handleHash(true);
+
+            // Remove the temporary FOWT style to let Bootstrap take over normal operations
+            const fowtStyle = document.getElementById('fowt-style');
+            if (fowtStyle) {
+                fowtStyle.remove();
+            }
+
+            // Run when hash changes (e.g. user clicks footer link while on legal.html)
+            window.addEventListener('hashchange', () => handleHash(false));
+
+            // Update hash when tab changes, but keep it clean (e.g. #privacy instead of #v-pills-privacy)
+            const tabs = document.querySelectorAll('button[data-bs-toggle="pill"]');
+            tabs.forEach(tab => {
+                tab.addEventListener('shown.bs.tab', (event) => {
+                    const target = event.target.getAttribute('data-bs-target');
+                    const cleanHash = target.replace('#v-pills-', '#');
+                    if (window.location.hash !== cleanHash) {
+                        history.pushState(null, null, cleanHash);
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>

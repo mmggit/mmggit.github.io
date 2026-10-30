@@ -1,0 +1,125 @@
+# Blog editor configuration (Sveltia CMS). Open https://oviwellness.com/admin/
+# Sign in with a GitHub token that has write access to this repo - see docs/BLOG.md.
+
+backend:
+  name: github
+  repo: mmggit/mmggit.github.io
+  branch: main
+
+site_url: https://mmggit.github.io
+display_url: https://mmggit.github.io
+locale: en
+
+media_folder: assets/images/blog
+public_folder: /assets/images/blog
+
+collections:
+  - name: blog
+    label: Blog posts
+    label_singular: Blog post
+    folder: content/blog
+    extension: json
+    format: json
+    create: true
+    slug: "{{slug}}"
+    summary: "{{title}}"
+    sortable_fields: [date, title]
+    fields:
+      - name: published
+        label: Published
+        widget: boolean
+        default: false
+        hint: "Off = draft. Nothing goes on the website until this is on."
+      - name: date
+        label: Publish date
+        widget: datetime
+        date_format: "YYYY-MM-DD"
+        time_format: false
+        format: "YYYY-MM-DD"
+        picker_utc: true
+      - name: title
+        label: Title (English)
+        widget: string
+        hint: "The web address is made from the title when the post is first created, so get it right before the first save."
+      - name: category
+        label: Category (English)
+        widget: string
+        hint: "For example: Hormone Optimization, Detox & Recovery, Peptides"
+      - name: service
+        label: Related service
+        widget: select
+        required: false
+        options:
+          - { label: "Hormone Optimization", value: hormone-optimization }
+          - { label: "Medical Weight Loss (GLP-1)", value: glp-1therapies }
+          - { label: "Peptide Therapy", value: peptides }
+          - { label: "Regenerative Medicine", value: regenerative-medicine }
+          - { label: "Sexual Wellness", value: sexual-wellness }
+          - { label: "IV & Wellness", value: iv-wellness }
+          - { label: "Detox Protocols", value: detox }
+          - { label: "Specialty Labs", value: advanced-labs }
+        hint: "The service page this post links to, and which service pages list it under Related articles. Leave empty for general posts."
+      - name: excerpt
+        label: Short summary (English)
+        widget: text
+        hint: "Shown on the blog page and in Google results. Aim for about 150 characters."
+      - name: show_toc
+        label: Show table of contents
+        widget: boolean
+        default: false
+        hint: "Adds a clickable list of the section headings at the top of the post (not the opening section, Disclaimer or Sources)."
+      - name: seo_title
+        label: SEO title (English)
+        widget: string
+        required: false
+        hint: "The title Google shows. Leave blank to use the post title + - OVI Wellness. Aim for under 60 characters."
+      - name: meta_description
+        label: Meta description (English)
+        widget: text
+        required: false
+        hint: "The description Google shows. Leave blank to use the short summary. Aim for under 155 characters."
+      - name: featured_image
+        label: Featured image
+        widget: image
+        required: false
+        hint: "Shown at the top of the post, on the blog page card, and when the post is shared. 1200 x 630 pixels works best. Keep the file under about 200 KB."
+      - name: featured_image_alt
+        label: Featured image description (English)
+        widget: string
+        required: false
+        hint: "Short description of what the image shows, for accessibility and Google Images."
+      - name: content
+        label: Sections (English)
+        label_singular: Section
+        widget: list
+        summary: "{{fields.title}}"
+        hint: "The first section is the opening text and its title is not shown. Each later section gets a heading."
+        fields:
+          - { name: title, label: Section heading, widget: string, required: false }
+          - { name: body, label: Text, widget: markdown, hint: "Use the toolbar for bold, links, bullet and numbered lists, tables and sub-headings. Pasting from Google Docs keeps most formatting." }
+          - { name: image, label: Image above this section, widget: image, required: false }
+          - { name: image_alt, label: Image description, widget: string, required: false }
+      - name: es
+        label: Spanish version
+        widget: object
+        required: false
+        collapsed: true
+        hint: "Leave empty and the Spanish site shows the English text for this post."
+        fields:
+          - { name: title, label: Title (Spanish), widget: string, required: false }
+          - { name: category, label: Category (Spanish), widget: string, required: false }
+          - { name: excerpt, label: Short summary (Spanish), widget: text, required: false }
+          - { name: seo_title, label: SEO title (Spanish), widget: string, required: false }
+          - { name: meta_description, label: Meta description (Spanish), widget: text, required: false }
+          - { name: featured_image_alt, label: Featured image description (Spanish), widget: string, required: false }
+          - name: content
+            label: Sections (Spanish)
+            label_singular: Section
+            widget: list
+            required: false
+            summary: "{{fields.title}}"
+            hint: "Same number of sections as English, in the same order."
+            fields:
+              - { name: title, label: Section heading, widget: string, required: false }
+              - { name: body, label: Text, widget: markdown, required: false }
+              - { name: image_alt, label: Image description (Spanish), widget: string, required: false, hint: "The image itself is taken from the English section in the same position." }

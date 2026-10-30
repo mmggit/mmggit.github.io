@@ -1,0 +1,189 @@
+{
+  "contact": {
+    "phone": "(727) 476-8966",
+    "fax": "(727) 475-8004",
+    "email": "info@oviwellness.com",
+    "socials": {
+      "instagram": {
+        "handle": "@oviwellness_",
+        "url": "https://instagram.com/oviwellness_"
+      },
+      "facebook": {
+        "handle": "@oviwellness_",
+        "url": "https://www.facebook.com/profile.php?id=61590423610288"
+      },
+      "tiktok": {
+        "handle": "@oviwellness_",
+        "url": "https://www.tiktok.com/@oviwellness_"
+      }
+    },
+    "address": {
+      "street": "5029 Central Ave",
+      "city": "St. Petersburg",
+      "state": "FL",
+      "zip": "33710",
+      "mapUrl": "https://maps.app.goo.gl/SFCiAXwWWKjuANvf8",
+      "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3527.2797!2d-82.704386!3d27.771276!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88c2e326912c3f67%3A0x62e28e7652a7247!2sOVI%20Wellness!5e0!3m2!1sen!2sus!4v1700000000000!5m2!1sen!2sus"
+    },
+    "hours": [
+      {
+        "days": "Lunes - Jueves",
+        "time": "9:00 AM - 7:00 PM"
+      },
+      {
+        "days": "Viernes - Domingo",
+        "time": "Cerrado"
+      }
+    ]
+  },
+  "navigation": [
+    {
+      "label": "Tratamientos",
+      "href": "#",
+      "dropdown": [
+        {
+          "label": "Optimización Hormonal",
+          "href": "hormone-optimization",
+          "icon": "fa-syringe"
+        },
+        {
+          "label": "Pérdida de Peso Médica",
+          "href": "glp-1therapies",
+          "icon": "fa-weight-scale"
+        },
+        {
+          "label": "Terapia de Péptidos",
+          "href": "peptides",
+          "icon": "fa-vial"
+        },
+        {
+          "label": "Medicina Regenerativa",
+          "href": "regenerative-medicine",
+          "icon": "fa-heartbeat"
+        },
+        {
+          "label": "Bienestar Sexual",
+          "href": "sexual-wellness",
+          "icon": "fa-heart"
+        },
+        {
+          "label": "IV y Bienestar",
+          "href": "iv-wellness",
+          "icon": "fa-tint"
+        },
+        {
+          "label": "Protocolos de Desintoxicación",
+          "href": "detox",
+          "icon": "fa-leaf"
+        },
+        {
+          "label": "Laboratorios Especializados",
+          "href": "advanced-labs",
+          "icon": "fa-flask"
+        }
+      ]
+    },
+    {
+      "label": "Equipo",
+      "href": "team"
+    },
+    {
+      "label": "Preguntas Frecuentes",
+      "href": "/#faqs"
+    },
+    {
+      "label": "La Ciencia",
+      "href": "blog"
+    },
+    {
+      "label": "Care Credit",
+      "href": "https://www.carecredit.com/apply/?_gl=1*hpf3u3*_ga*MjcxMzY2MjgwLjE3OTIwMjYyMTQ.*_ga_SHD5X90J3V*czE3OTIwMjYyMTQkbzEkZzEkdDE3OTIwMjcyOTIkajU1JGwwJGgw"
+    }
+  ],
+  "marquee": [
+    {
+      "label": "Protocolos Dirigidos por Médicos",
+      "icon": "fa-user-md"
+    },
+    {
+      "label": "St. Petersburg, FL",
+      "icon": "fa-map-marker-alt"
+    },
+    {
+      "label": "Clínica Médica con Licencia",
+      "icon": "fa-shield-alt"
+    },
+    {
+      "label": "Cumple con HIPAA",
+      "icon": "fa-user-shield"
+    },
+    {
+      "label": "Protocolos Personalizados",
+      "icon": "fa-clipboard-user"
+    }
+  ],
+  "testimonials": [
+    {
+      "initials": "JT",
+      "name": "James T.",
+      "tag": "PACIENTE DE TRT",
+      "quote": "El programa de TRT ha sido transformador para mi bienestar. En dos meses, mi confusión mental mejoró y mis niveles de energía aumentaron significativamente. El equipo médico de aquí es increíblemente minucioso y preciso con los análisis de sangre."
+    },
+    {
+      "initials": "SM",
+      "name": "Sarah M.",
+      "tag": "OPTIMIZACIÓN METABÓLICA",
+      "quote": "He luchado con la pérdida de peso durante años. El protocolo metabólico, combinado con su orientación nutricional, me ayudó a perder 35 libras manteniendo mi masa muscular. Es la primera vez que una clínica evalúa mis marcadores metabólicos en lugar de usar solo una báscula."
+    },
+    {
+      "initials": "MR",
+      "name": "Michael R.",
+      "tag": "MIEMBRO DE TERAPIA IV",
+      "quote": "La membresía de Drip Culture es un excelente apoyo. Como viajero frecuente, la terapia de vitaminas intravenosas y glutatión ayuda a respaldar mi sistema inmunológico y mantener un buen nivel de energía. La sala de infusiones es una experiencia fantástica."
+    },
+    {
+      "initials": "DL",
+      "name": "David L.",
+      "tag": "TERAPIA DE PÉPTIDOS",
+      "quote": "Los protocolos específicos apoyaron mi recuperación de manera efectiva. Verdaderamente se enfocan en la precisión y en ayudar a que su cuerpo funcione de manera eficiente. Recomiendo ampliamente esta clínica."
+    },
+    {
+      "initials": "EK",
+      "name": "Elena K.",
+      "tag": "PROTOCOLOS DE LONGEVIDAD",
+      "quote": "Una experiencia médica verdaderamente exclusiva. Siento una gran mejora en mi vitalidad después de utilizar consistentemente sus tratamientos estéticos y de bienestar. El personal es increíble."
+    },
+    {
+      "initials": "KT",
+      "name": "Kyle T.",
+      "tag": "PACIENTE DE TRT",
+      "quote": "Estas terapias han sido excelentes. Siento un nivel de energía renovado al seguir el protocolo."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "¿Qué incluye el programa de TRT?",
+      "answer": "Nuestro programa de TRT proporciona una optimización hormonal integral y médicamente supervisada. Incluye consultas continuas con un proveedor de atención médica con licencia, amplios análisis de sangre de biomarcadores de rutina y testosterona bioidéntica de grado farmacéutico dosificada a medida para ayudar a mantener sus niveles optimizados con precisión."
+    },
+    {
+      "question": "¿Cómo funciona el programa de Pérdida de Peso Médica?",
+      "answer": "Utilizamos terapias metabólicas avanzadas como Semaglutida o Tirzepatida combinadas con inyectables lipotrópicos. Su protocolo es guiado por marcadores metabólicos de laboratorio e incluye supervisión médica, asesoramiento nutricional y seguimiento del progreso para apoyar la pérdida de grasa mientras se preserva el músculo magro."
+    },
+    {
+      "question": "¿Cuánto tiempo se tarda en ver resultados?",
+      "answer": "Los resultados dependen completamente de la terapia. Los resultados individuales varían. La terapia intravenosa puede ofrecer mejoras en la hidratación y la energía. En el caso del TRT y los péptidos, los pacientes a menudo notan una mejora en la claridad mental y el sueño en semanas, mientras que los cambios en la composición corporal y la reparación de tejidos generalmente requieren de 3 a 6 meses de cumplimiento constante."
+    },
+    {
+      "question": "¿Son seguras las terapias de péptidos y cómo se administran?",
+      "answer": "Los péptidos son generalmente bien tolerados porque son compuestos que se encuentran naturalmente en el cuerpo. Prescribimos exclusivamente péptidos de grado farmacéutico rigurosamente probados. La mayoría se administran mediante una inyección subcutánea utilizando una microaguja, aunque algunos protocolos utilizan alternativas tópicas u orales según la evaluación clínica."
+    }
+  ],
+  "location": {
+    "sectionTitle": "Encuentre Nuestra Clínica",
+    "clinicName": "OVI Wellness",
+    "labelAddress": "Dirección",
+    "labelHours": "Horario de Atención",
+    "labelContact": "Contacto",
+    "getDirections": "Obtener Direcciones"
+  }
+}

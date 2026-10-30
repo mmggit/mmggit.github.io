@@ -1,0 +1,94 @@
+{
+  "seo": {
+    "title": "OVI Wellness — Doctor-Led Performance Medicine in St. Petersburg, FL",
+    "description": "Advanced Wellness & Regenerative Aesthetics at OVI Wellness. Doctor-led, medically supervised, data-driven protocols."
+  },
+  "hero": {
+    "headline": "Human Performance<br><span>Optimized</span>",
+    "title": "Doctor-Led Hormone Therapy & Medical Weight Loss in St. Petersburg, FL",
+    "subheadline": "Personalized medical wellness and aesthetic services guided by licensed healthcare professionals.",
+    "cta": "Book Your Consultation",
+    "exploreBtn": "Explore More Protocols"
+  },
+  "coreTherapies": {
+    "sectionTitle": "Core Optimization Therapies"
+  },
+  "memberships": {
+    "sectionTitle": "Simple Membership Plans",
+    "ivBanner": {
+      "title": "Why Add IV Therapy?",
+      "body": "IV hydration delivers fluids and selected nutrients directly into the bloodstream. Potential benefits, risks, and appropriateness vary by patient and are reviewed by a licensed healthcare provider before treatment.",
+      "callBtn": "Call (727) 476-8966",
+      "bookBtn": "Book Appointment"
+    },
+    "plans": [
+      {
+        "id": "essential",
+        "name": "Essential Plan",
+        "badge": "Starter",
+        "description": "Essential bio-identical hormone optimization and doctor consultations.",
+        "features": [
+          "<strong>Custom Bio-Identical Hormone Therapy</strong>",
+          "<strong>Doctor Visits &amp; Consultations</strong> (In-person &amp; Telehealth)",
+          "<strong>Routine Blood Work Monitoring</strong>"
+        ],
+        "cta": "Book Essential Plan"
+      },
+      {
+        "id": "optimal",
+        "name": "Optimal Plan",
+        "badge": "Most Popular",
+        "description": "Tier 2 membership combining full Essential Plan benefits plus your choice of 1 extra monthly service.",
+        "features": [
+          "<strong>Everything in Essential Plan</strong>",
+          "<strong>Choice of 1 Extra Monthly Service:</strong> 2 IV Hydration sessions per month OR 1 Peptide therapy to choose from"
+        ],
+        "cta": "Book Optimal Plan"
+      },
+      {
+        "id": "vip",
+        "name": "Executive Plan",
+        "badge": "VIP Concierge",
+        "description": "Comprehensive concierge care with everything in Optimal Plan, priority physician contact, and included IVs &amp; peptides.",
+        "features": [
+          "<strong>Everything in Optimal Plan</strong>",
+          "<strong>Priority Physician Contact</strong>",
+          "<strong>Included IV Hydration Therapy &amp; Peptide Protocols</strong>"
+        ],
+        "cta": "Book Executive Plan"
+      }
+    ]
+  },
+  "whyUs": {
+    "sectionTitle": "Licensed Clinicians. Individualized Care. Clear Medical Oversight.",
+    "teamBadge": "Board-Certified Medical Providers",
+    "teamSub": "Florida State Licensed Concierge Clinic",
+    "meetBtn": "Meet the Doctors &amp; View Credentials",
+    "benefits": [
+      {
+        "icon": "fa-user-md",
+        "title": "Talk Directly to Your Provider",
+        "detail": "No call centers. Direct access to licensed medical professionals."
+      },
+      {
+        "icon": "fa-vial",
+        "title": "Built Just for Your Body",
+        "detail": "Treatment recommendations based on medical history, symptoms, examination when appropriate, and relevant laboratory findings."
+      },
+      {
+        "icon": "fa-file-invoice-dollar",
+        "title": "Clearly Defined Membership Inclusions",
+        "detail": "Medication, specialty testing, procedures, and third-party pharmacy charges are listed separately when not included."
+      }
+    ]
+  },
+  "additionalServices": {
+    "sectionTitle": "Additional Optimization Services"
+  },
+  "faqs": {
+    "sectionTitle": "Frequently Asked Questions"
+  },
+  "socialProof": {
+    "sectionTitle": "Connect with Us on Social Media"
+  }
+}

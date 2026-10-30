@@ -1,0 +1,354 @@
+{
+  "id": "regenerative-medicine",
+  "type": "additional",
+  "tabLabel": "Medicina Regenerativa",
+  "href": "regenerative-medicine",
+  "title": "Consulta de PRP para Usos Musculoesqueléticos o Estéticos Seleccionados",
+  "lead": "Evaluación clínica para apoyar el bienestar articular, la salud capilar y la confianza personal.",
+  "description": "Exploramos opciones que utilizan procesos naturales del cuerpo para apoyar articulaciones, piel y cabello, siempre bajo prescripción y supervisión médica. Los resultados individuales varían.",
+  "icon": "fa-heartbeat",
+  "delay": "-3s",
+  "features": [
+    "Apoyo para molestias articulares persistentes",
+    "Opciones para el cuidado capilar y de la piel",
+    "Evaluación del bienestar íntimo",
+    "Supervisado por un proveedor de atención médica con licencia"
+  ],
+  "image": "",
+  "ctaText": "Programe su evaluación clínica",
+  "pageTitle": "Medicina Regenerativa Guiada por Médicos — OVI Wellness",
+  "pageDescription": "Medicina regenerativa guiada por médicos en St. Petersburg, FL. Terapias PRP y enfoques para el bienestar supervisados por proveedores médicos con licencia.",
+  "heroHeadline": "Apoyo<br><span class=\"text-primary\">Regenerativo</span> Clínico",
+  "heroTitle": "Medicina Regenerativa con PRP en St. Petersburg, FL",
+  "heroSubheadline": "Protocolos regenerativos prescritos bajo supervisión clínica en St. Petersburg, FL.",
+  "heroCTA": "Programe su llamada médica hoy",
+  "quiz": {
+    "badge": "Evaluación rápida",
+    "headline": "Encuentre su plan clínico",
+    "subheadline": "Responda 3 preguntas para ayudar a guiar nuestra evaluación.",
+    "step1": {
+      "question": "¿Cuál es su principal inquietud en este momento?",
+      "sub": "Seleccione el área prioritaria.",
+      "options": [
+        {
+          "value": "joint",
+          "icon": "fa-bone",
+          "title": "Molestias articulares",
+          "desc": "Inquietudes en rodillas, hombros o articulaciones."
+        },
+        {
+          "value": "hair",
+          "icon": "fa-cut",
+          "title": "Cuidado capilar",
+          "desc": "Interés en apoyar el bienestar del cuero cabelludo."
+        },
+        {
+          "value": "intimacy",
+          "icon": "fa-heart",
+          "title": "Bienestar íntimo",
+          "desc": "Apoyo para la salud sexual y confianza."
+        }
+      ]
+    },
+    "step2": {
+      "question": "¿Durante cuánto tiempo ha notado este problema?",
+      "sub": "Ayuda a guiar su punto de partida clínico.",
+      "options": [
+        {
+          "value": "mild",
+          "icon": "fa-thermometer-empty",
+          "title": "Reciente (Leve)",
+          "desc": "Molestia reciente o cambios iniciales."
+        },
+        {
+          "value": "severe",
+          "icon": "fa-thermometer-full",
+          "title": "Largo plazo (Persistente)",
+          "desc": "Molestia continua o cambios de larga duración."
+        }
+      ]
+    },
+    "step3": {
+      "question": "¿Ha probado terapias regenerativas como PRP anteriormente?",
+      "sub": "Ayuda a orientar su evaluación clínica.",
+      "options": [
+        {
+          "value": "no",
+          "icon": "fa-times",
+          "title": "Primera vez",
+          "desc": "Nunca he probado este tipo de atención clínica."
+        },
+        {
+          "value": "yes",
+          "icon": "fa-check",
+          "title": "Sí, lo he hecho",
+          "desc": "He probado opciones como PRP en el pasado."
+        }
+      ]
+    },
+    "protocols": {
+      "joint": {
+        "tag": "Plan articular recomendado",
+        "name": "Plan de apoyo celular y articular",
+        "peptides": "Terapias con PRP prescritas",
+        "icon": "fa-bone",
+        "desc": "Evaluación clínica para el uso de terapias que buscan apoyar la recuperación de los tejidos articulares.",
+        "goalModifiers": {
+          "no": "Nuestro médico realizará una evaluación inicial para determinar el enfoque adecuado.",
+          "yes": "Nuestro médico ajustará el protocolo clínico según su historial."
+        },
+        "social": "Pacientes locales evalúan opciones de bienestar articular."
+      },
+      "hair": {
+        "tag": "Plan capilar",
+        "name": "Apoyo al cuero cabelludo",
+        "peptides": "Terapia PRP guiada",
+        "icon": "fa-cut",
+        "desc": "Busca apoyar el entorno de los folículos pilosos a través de un enfoque clínico.",
+        "goalModifiers": {
+          "no": "Evaluación inicial diseñada para pacientes nuevos en estas opciones.",
+          "yes": "Plan de mantenimiento ajustado según las respuestas previas."
+        },
+        "social": "Individuos buscan alternativas de apoyo capilar."
+      },
+      "intimacy": {
+        "tag": "Plan de intimidad",
+        "name": "Evaluación de bienestar íntimo",
+        "peptides": "Apoyo clínico con PRP",
+        "icon": "fa-heart",
+        "desc": "Procedimiento guiado médicamente que evalúa el apoyo a la salud sexual.",
+        "goalModifiers": {
+          "no": "Su médico lo guiará a través de las consideraciones iniciales.",
+          "yes": "Protocolo de seguimiento diseñado según evaluaciones previas."
+        },
+        "social": "Muchos pacientes consultan sobre opciones de bienestar íntimo."
+      }
+    },
+    "timelineMap": {
+      "mild": "4–6 semanas (Evaluación temprana)",
+      "severe": "8–12 semanas (Evaluación médica estándar)"
+    }
+  },
+  "eligibility": {
+    "badge": "¿Para quién es esto?",
+    "headline": "¿Es usted candidato para evaluación regenerativa?",
+    "intro": "Estos tratamientos médicos son evaluados y supervisados por un proveedor de atención médica con licencia. Revisamos su salud para buscar el enfoque clínico adecuado. Los resultados individuales varían.",
+    "note": "¿Preguntas? Nuestro equipo médico le asistirá durante su consulta.",
+    "ctaText": "Llámenos para verificar opciones",
+    "items": [
+      {
+        "label": "Molestias articulares",
+        "detail": "Adultos buscando evaluación de molestias en rodillas u hombros."
+      },
+      {
+        "label": "Cuidado capilar",
+        "detail": "Personas explorando enfoques no quirúrgicos para el cuero cabelludo."
+      },
+      {
+        "label": "Bienestar íntimo",
+        "detail": "Pacientes interesados en evaluar opciones guiadas médicamente."
+      },
+      {
+        "label": "Interés no quirúrgico",
+        "detail": "Personas buscando consultar alternativas a los procedimientos invasivos cuando sea apropiado."
+      },
+      {
+        "label": "Atención clínica",
+        "detail": "Buscando tratamientos administrados por profesionales en un entorno clínico."
+      }
+    ]
+  },
+  "protocols": {
+    "badge": "Opciones de prescripción",
+    "sectionHeadline": "Tratamientos guiados por médicos",
+    "sectionSubheadline": "Terapias evaluadas según su perfil clínico.",
+    "items": [
+      {
+        "icon": "fa-dna",
+        "name": "Terapia celular PRP",
+        "tag": "Enfoque clínico",
+        "description": "Uso de plasma rico en plaquetas para apoyar la función de los tejidos previa evaluación médica."
+      },
+      {
+        "icon": "fa-tint",
+        "name": "Plasma Rico en Plaquetas (PRP)",
+        "tag": "Apoyo del cuerpo",
+        "description": "Utiliza factores propios de su sangre para buscar apoyar procesos biológicos naturales."
+      },
+      {
+        "icon": "fa-mars",
+        "name": "Bienestar masculino",
+        "tag": "Para hombres",
+        "description": "Evaluación clínica de opciones con PRP para apoyar la salud sexual masculina."
+      },
+      {
+        "icon": "fa-wand-magic-sparkles",
+        "name": "Apoyo facial",
+        "tag": "Bienestar de la piel",
+        "description": "Uso de terapias para buscar apoyo a la elasticidad y aspecto general de la piel."
+      },
+      {
+        "icon": "fa-leaf",
+        "name": "Evaluación capilar",
+        "tag": "Para el cabello",
+        "description": "Consulta sobre terapias para folículos pilosos bajo supervisión médica."
+      },
+      {
+        "icon": "fa-heartbeat",
+        "name": "Apoyo articular",
+        "tag": "Evaluación física",
+        "description": "Consulta clínica orientada al bienestar de las articulaciones mayores."
+      }
+    ]
+  },
+  "science": {
+    "badge": "Cómo funciona",
+    "headline": "Por qué es importante el<br><span class=\"text-primary\">criterio médico</span>",
+    "body": "El manejo clínico busca opciones adaptadas al paciente. Mediante el uso supervisado de PRP, los médicos pueden evaluar opciones para apoyar los tejidos subyacentes. Los resultados individuales varían.",
+    "bullets": [
+      "Procedimientos realizados por proveedores de atención médica con licencia",
+      "Uso de compuestos derivados del propio cuerpo del paciente",
+      "Opciones discutidas dentro del marco clínico adecuado"
+    ],
+    "stats": [
+      {
+        "value": "Basado",
+        "label": "En su biología individual"
+      },
+      {
+        "value": "Clínico",
+        "label": "Supervisado por médicos"
+      },
+      {
+        "value": "Evaluado",
+        "label": "Consultas personalizadas"
+      },
+      {
+        "icon": "fa-user-md",
+        "label": "Atención médica certificada"
+      }
+    ],
+    "cards": [
+      {
+        "icon": "fa-microscope",
+        "title": "Evaluación PRP",
+        "detail": "El PRP requiere la toma de muestra de sangre del paciente, seguida de procesamiento en clínica."
+      },
+      {
+        "icon": "fa-bullseye",
+        "title": "Señalización celular",
+        "detail": "Se buscan enfoques que puedan interactuar con los procesos de recuperación del cuerpo."
+      }
+    ]
+  },
+  "myths": [
+    {
+      "myth": "¿Son procedimientos dolorosos?",
+      "reality": "Nuestros médicos utilizan opciones como cremas tópicas según corresponda para buscar su comodidad."
+    },
+    {
+      "myth": "¿Son células madre?",
+      "reality": "No. El PRP y terapias similares no son células madre; utilizan componentes sanguíneos (plaquetas)."
+    },
+    {
+      "myth": "¿Es segura esta práctica médica?",
+      "reality": "Las terapias son realizadas directamente por un proveedor de atención médica con licencia."
+    }
+  ],
+  "comparison": {
+    "headline": "Atención guiada por un proveedor de atención médica con licencia",
+    "subheadline": "Consulte sobre enfoques médicos para su bienestar.",
+    "ctaText": "Llame a nuestra clínica hoy",
+    "mobileStats": [
+      {
+        "icon": "fa-dna",
+        "label": "Evaluación clínica"
+      },
+      {
+        "icon": "fa-shield-alt",
+        "label": "Supervisión médica"
+      },
+      {
+        "icon": "fa-bolt",
+        "label": "Apoyo dirigido"
+      },
+      {
+        "icon": "fa-heart",
+        "label": "Seguimiento"
+      }
+    ],
+    "rows": [
+      {
+        "metric": "Enfoque clínico",
+        "without": "Soluciones convencionales superficiales",
+        "with": "Evaluación del tejido y función"
+      },
+      {
+        "metric": "Tipo de tratamiento",
+        "without": "Enfoques no específicos",
+        "with": "Opciones PRP prescritas"
+      },
+      {
+        "metric": "Experiencia en clínica",
+        "without": "Variable",
+        "with": "Procedimientos en consultorio médico"
+      },
+      {
+        "metric": "Evaluación de seguridad",
+        "without": "Riesgos no discutidos",
+        "with": "Discusión médica previa"
+      },
+      {
+        "metric": "Seguimiento",
+        "without": "Sin revisiones continuas",
+        "with": "Visitas clínicas periódicas"
+      }
+    ],
+    "stacks": [
+      {
+        "name": "Protocolo de evaluación articular",
+        "tag": "Más popular",
+        "compounds": "Consulta y PRP",
+        "description": "Opción clínica que evalúa el uso de terapias para molestias articulares."
+      },
+      {
+        "name": "Consulta de intimidad",
+        "tag": "Bienestar sexual",
+        "compounds": "Opciones prescritas guiadas",
+        "description": "Evaluación médica para explorar terapias de salud íntima."
+      },
+      {
+        "name": "Plan de apoyo capilar",
+        "tag": "Salud capilar",
+        "compounds": "Evaluación del cuero cabelludo",
+        "description": "Consulta para discutir intervenciones no quirúrgicas para el cabello."
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "question": "¿Necesito consultar con un médico?",
+      "answer": "Sí. Todos los procedimientos clínicos requieren una evaluación previa por un proveedor de atención médica con licencia."
+    },
+    {
+      "question": "¿Qué incluye el programa médico?",
+      "answer": "Incluye evaluación clínica completa, el procedimiento en el consultorio si está indicado, y revisiones de progreso."
+    },
+    {
+      "question": "¿Experimentaré dolor?",
+      "answer": "Nuestros profesionales toman medidas, como anestésicos tópicos, para buscar el mayor confort durante la visita."
+    },
+    {
+      "question": "¿Cuántas sesiones se consideran usualmente?",
+      "answer": "Esto variará. Las opciones se discutirán basándose en su perfil clínico y los protocolos recomendados."
+    },
+    {
+      "question": "¿En qué se diferencia el PRP de los tratamientos con células madre?",
+      "answer": "El PRP utiliza factores de su propia sangre (plaquetas), no células madre con capacidad de replicación."
+    },
+    {
+      "question": "¿Cómo puedo programar una consulta?",
+      "answer": "¡Contáctenos hoy! Nuestro equipo programará su evaluación inicial con un profesional de la salud."
+    }
+  ]
+}

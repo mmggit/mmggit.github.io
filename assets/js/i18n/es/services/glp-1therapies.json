@@ -1,0 +1,314 @@
+{
+  "id": "glp-1therapies",
+  "type": "core",
+  "tabLabel": "Manejo de Peso GLP-1",
+  "href": "glp-1therapies",
+  "title": "Manejo Médico del Peso con Opciones de Tratamiento Guiadas por Médicos",
+  "lead": "Un médico certificado guía su plan para apoyar sus objetivos de composición corporal, saciedad y niveles de energía.",
+  "description": "Para pacientes elegibles, los medicamentos recetados para el control de peso pueden reducir el apetito y apoyar el manejo del peso cuando se combinan con nutrición, actividad física y monitoreo clínico continuo. Los resultados individuales varían.",
+  "icon": "fa-weight-scale",
+  "delay": "-1s",
+  "features": [
+    "Ayuda en el manejo del apetito y antojos",
+    "Apoyo metabólico para la composición corporal",
+    "Supervisión por un proveedor de atención médica con licencia",
+    "Evaluación clínica continua y seguimiento"
+  ],
+  "image": "assets/images/photos/glp1-weight-loss.jpg",
+  "ctaText": "Programe su consulta médica",
+  "pageTitle": "Manejo Médico del Peso GLP-1 Guiado por Médicos — OVI Wellness",
+  "pageDescription": "Protocolos de manejo médico del peso en St. Petersburg, FL. Medicamentos aprobados por la FDA pueden ser recetados cuando estén indicados, bajo supervisión clínica.",
+  "heroHeadline": "Optimización<br><span class=\"text-primary\">Metabólica</span> Redefinida",
+  "heroTitle": "Control Médico de Peso con GLP-1 en St. Petersburg, FL",
+  "heroSubheadline": "Protocolos de manejo de peso supervisados por proveedores de atención médica con licencia en St. Petersburg, FL.",
+  "heroCTA": "Programe su evaluación clínica",
+  "quiz": {
+    "badge": "Evaluación rápida",
+    "headline": "Encuentre su plan de bienestar",
+    "subheadline": "Responda 3 preguntas para que nuestro equipo médico pueda guiar sus opciones.",
+    "step1": {
+      "question": "¿Cuál es su principal objetivo metabólico?",
+      "sub": "Elija la prioridad para su salud.",
+      "options": [
+        {
+          "value": "weight",
+          "icon": "fa-weight",
+          "title": "Manejo del peso",
+          "desc": "Apoyo para el control del peso en el marco de un plan médico."
+        },
+        {
+          "value": "metabolic",
+          "icon": "fa-heartbeat",
+          "title": "Apoyo metabólico y de energía",
+          "desc": "Apoyo para el metabolismo y bienestar general."
+        }
+      ]
+    },
+    "step2": {
+      "question": "¿Ha utilizado tratamientos GLP-1 para el manejo del peso anteriormente?",
+      "sub": "Ayuda a guiar su evaluación clínica.",
+      "options": [
+        {
+          "value": "no",
+          "icon": "fa-times-circle",
+          "title": "Primera vez",
+          "desc": "Nunca he probado terapias GLP-1."
+        },
+        {
+          "value": "yes",
+          "icon": "fa-check-circle",
+          "title": "Sí, lo he hecho",
+          "desc": "He usado opciones recetadas previamente."
+        }
+      ]
+    },
+    "step3": {
+      "question": "¿Cuál es su objetivo de manejo de peso?",
+      "sub": "Ayuda a establecer expectativas clínicas.",
+      "options": [
+        {
+          "value": "moderate",
+          "icon": "fa-arrow-down",
+          "title": "Manejo moderado",
+          "desc": "Objetivos enfocados en un manejo progresivo de la composición."
+        },
+        {
+          "value": "significant",
+          "icon": "fa-arrow-circle-down",
+          "title": "Manejo significativo",
+          "desc": "Objetivos orientados a cambios metabólicos mayores."
+        }
+      ]
+    },
+    "protocols": {
+      "weight": {
+        "tag": "Plan recomendado",
+        "name": "Plan metabólico guiado por médicos",
+        "peptides": "Medicamentos aprobados pueden ser recetados según indicación.",
+        "icon": "fa-weight-scale",
+        "desc": "Un tratamiento supervisado por un proveedor de atención médica con licencia que puede ayudar con la saciedad y el metabolismo.",
+        "goalModifiers": {
+          "moderate": "Puede apoyar el manejo moderado del peso como parte de un plan integral.",
+          "significant": "Diseñado para objetivos mayores con seguimiento clínico frecuente."
+        },
+        "social": "Muchos pacientes están inscritos en este plan supervisado."
+      },
+      "metabolic": {
+        "tag": "Plan de bienestar",
+        "name": "Plan de bienestar sistémico",
+        "peptides": "Opciones recetadas + apoyo vitamínico",
+        "icon": "fa-heartbeat",
+        "desc": "Enfocado en apoyar la función metabólica como parte de la atención integral.",
+        "goalModifiers": {
+          "moderate": "Ayuda a abordar aspectos metabólicos en casos de cambios leves.",
+          "significant": "Un enfoque completo para evaluar marcadores de salud y apoyar el manejo del peso."
+        },
+        "social": "Pacientes han iniciado planes médicos de bienestar recientemente."
+      }
+    },
+    "timelineMap": {
+      "no": "12–16 semanas (Evaluación médica estándar)",
+      "yes": "8–12 semanas (Evaluación ajustada)"
+    }
+  },
+  "eligibility": {
+    "badge": "¿Para quién es esto?",
+    "headline": "¿Es usted candidato para evaluación GLP-1?",
+    "intro": "Estos son planes con medicamentos recetados supervisados por proveedores de atención médica con licencia. Evaluamos su salud primero para determinar la elegibilidad. Los resultados individuales varían.",
+    "note": "¿Preguntas sobre elegibilidad? Nuestro equipo lo guiará durante su evaluación clínica.",
+    "ctaText": "Llámenos para verificar elegibilidad",
+    "items": [
+      {
+        "label": "Manejo del peso",
+        "detail": "Adultos que buscan apoyo clínico integral en el manejo de su peso."
+      },
+      {
+        "label": "Manejo del apetito",
+        "detail": "Personas que buscan opciones médicas para ayudar con la saciedad."
+      },
+      {
+        "label": "Factores metabólicos",
+        "detail": "Pacientes que, junto con nutrición, no han alcanzado sus metas."
+      },
+      {
+        "label": "Apoyo a la masa magra",
+        "detail": "Enfoque en la composición corporal y hábitos nutricionales."
+      },
+      {
+        "label": "Listo para atención clínica",
+        "detail": "Buscando un plan médico estructurado con consultas regulares."
+      }
+    ]
+  },
+  "protocols": {
+    "badge": "Opciones de prescripción",
+    "sectionHeadline": "Tratamientos guiados por médicos",
+    "sectionSubheadline": "Opciones evaluadas clínicamente y prescritas por un proveedor de atención médica con licencia.",
+    "items": [
+      {
+        "icon": "fa-weight-scale",
+        "name": "Evaluación para Semaglutida",
+        "tag": "Opción prescrita",
+        "description": "Tratamiento GLP-1 recetado para quienes cumplen los criterios clínicos de elegibilidad."
+      },
+      {
+        "icon": "fa-fire",
+        "name": "Evaluación para Tirzepatida",
+        "tag": "Opción prescrita",
+        "description": "Tratamiento de acción dual sujeto a evaluación clínica para apoyar el manejo del peso."
+      },
+      {
+        "icon": "fa-dna",
+        "name": "Otras opciones de prescripción",
+        "tag": "Evaluación clínica",
+        "description": "Nuevas opciones pueden estar disponibles previa evaluación médica detallada."
+      },
+      {
+        "icon": "fa-leaf",
+        "name": "Apoyo vitamínico",
+        "tag": "Complemento",
+        "description": "Inyecciones vitamínicas que pueden prescribirse para apoyar su plan general."
+      },
+      {
+        "icon": "fa-chart-line",
+        "name": "Monitoreo clínico",
+        "tag": "Seguridad",
+        "description": "Evaluaciones periódicas de laboratorio para monitorear el progreso clínico y la seguridad."
+      },
+      {
+        "icon": "fa-utensils",
+        "name": "Orientación nutricional",
+        "tag": "Hábitos",
+        "description": "Sugerencias generales para apoyar la nutrición y el mantenimiento de la masa muscular."
+      }
+    ]
+  },
+  "science": {
+    "badge": "Cómo funciona",
+    "headline": "Por qué es importante el<br><span class=\"text-primary\">apoyo médico</span>",
+    "body": "Los medicamentos recetados GLP-1 actúan sobre receptores específicos. Como parte de una evaluación clínica y programa médico integral, pueden ayudar con las señales de saciedad. Los resultados individuales varían.",
+    "bullets": [
+      "Prescritos por proveedores de atención médica con licencia",
+      "Forman parte de un tratamiento clínico estructurado",
+      "Incluye orientación sobre hábitos para preservar masa muscular"
+    ],
+    "stats": [
+      {
+        "value": "Saciedad",
+        "label": "Puede ayudar a regular el apetito"
+      },
+      {
+        "value": "Estructura",
+        "label": "Plan clínico estructurado"
+      },
+      {
+        "value": "Supervisión",
+        "label": "Revisión médica periódica"
+      },
+      {
+        "icon": "fa-user-md",
+        "label": "Atención médica certificada"
+      }
+    ],
+    "cards": [
+      {
+        "icon": "fa-brain",
+        "title": "Mecanismo de acción",
+        "detail": "Interactúan con receptores implicados en el apetito y la regulación de la ingesta de alimentos."
+      },
+      {
+        "icon": "fa-dumbbell",
+        "title": "Enfoque integral",
+        "detail": "Nuestros planes médicos incluyen recomendaciones para la protección de la masa muscular durante el manejo de peso."
+      }
+    ]
+  },
+  "comparison": {
+    "headline": "Atención guiada por un proveedor de atención médica con licencia",
+    "subheadline": "Descubra la importancia del monitoreo médico.",
+    "ctaText": "Llame a nuestra clínica hoy",
+    "mobileStats": [
+      {
+        "icon": "fa-fire",
+        "label": "Apoyo metabólico"
+      },
+      {
+        "icon": "fa-dumbbell",
+        "label": "Orientación nutricional"
+      },
+      {
+        "icon": "fa-brain",
+        "label": "Manejo del apetito"
+      },
+      {
+        "icon": "fa-chart-line",
+        "label": "Revisado por médicos"
+      }
+    ],
+    "rows": [
+      {
+        "metric": "Manejo del apetito",
+        "without": "Dificultad sin apoyo médico",
+        "with": "Apoyo farmacológico prescrito"
+      },
+      {
+        "metric": "Evolución clínica",
+        "without": "Autogestión no estructurada",
+        "with": "Monitoreo médico periódico"
+      },
+      {
+        "metric": "Protección muscular",
+        "without": "Riesgo de pérdida de masa magra",
+        "with": "Orientación en el marco de la terapia"
+      },
+      {
+        "metric": "Seguridad médica",
+        "without": "Falta de supervisión",
+        "with": "Prescrito y monitoreado por un MD"
+      },
+      {
+        "metric": "Progreso a largo plazo",
+        "without": "Dificultad en el mantenimiento",
+        "with": "Acompañamiento clínico prolongado"
+      }
+    ],
+    "stacks": [
+      {
+        "name": "Plan integral metabólico",
+        "tag": "Más popular",
+        "compounds": "Opción prescrita + Apoyo vitamínico",
+        "description": "Combina opciones de prescripción tras la evaluación con apoyo vitamínico según indicación."
+      },
+      {
+        "name": "Plan inicial de manejo de peso",
+        "tag": "Primer paso",
+        "compounds": "Opción prescrita + Orientación nutricional",
+        "description": "Evaluación clínica para el inicio de opciones de manejo de peso guiadas."
+      },
+      {
+        "name": "Auditoría de bienestar metabólico",
+        "tag": "Revisión completa",
+        "compounds": "Opción prescrita + Paneles completos",
+        "description": "Un abordaje integral que utiliza paneles médicos para personalizar el protocolo."
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "question": "¿Necesito una receta médica para estos tratamientos?",
+      "answer": "Sí. Todos los tratamientos GLP-1 son medicamentos recetados. Consultará con un proveedor de atención médica con licencia que evaluará su elegibilidad antes de prescribir un plan."
+    },
+    {
+      "question": "¿Cómo funcionan estos medicamentos en el cuerpo?",
+      "answer": "Actúan sobre receptores relacionados con el apetito, lo que puede ayudar a la sensación de saciedad como parte de un plan clínico."
+    },
+    {
+      "question": "¿Perderé masa muscular?",
+      "answer": "Nuestros planes médicos guiados incluyen orientación nutricional para ayudar a proteger la masa muscular durante el proceso clínico."
+    },
+    {
+      "question": "¿Cómo puedo programar una evaluación?",
+      "answer": "Llámenos o reserve en línea. Un miembro de nuestro equipo programará su evaluación clínica con un proveedor de atención médica con licencia."
+    }
+  ]
+}

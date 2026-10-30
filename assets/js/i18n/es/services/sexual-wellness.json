@@ -1,0 +1,354 @@
+{
+  "id": "sexual-wellness",
+  "type": "additional",
+  "tabLabel": "Bienestar Sexual",
+  "href": "sexual-wellness",
+  "title": "Evaluación y Tratamiento Médico para la Salud Sexual",
+  "lead": "Apoyo clínico prescrito por médicos para ayudar a abordar preocupaciones relacionadas con la intimidad y la función sexual.",
+  "description": "Ofrecemos evaluación clínica integral para abordar factores hormonales, vasculares y de estilo de vida que pueden afectar la salud sexual. Las opciones terapéuticas son prescritas por proveedores de atención médica con licencia. Los resultados individuales varían.",
+  "icon": "fa-heart",
+  "delay": "-4s",
+  "features": [
+    "Evaluación clínica del bienestar íntimo",
+    "Análisis de factores vasculares y hormonales",
+    "Opciones terapéuticas guiadas por médicos",
+    "Entorno médico confidencial"
+  ],
+  "image": "assets/images/photos/team-group.jpg",
+  "ctaText": "Programe su evaluación clínica",
+  "pageTitle": "Bienestar Sexual Guiado por Médicos — OVI Wellness",
+  "pageDescription": "Protocolos de bienestar sexual prescritos por médicos en St. Petersburg, FL. Terapias hormonales y de apoyo vascular guiadas por proveedores de atención médica con licencia.",
+  "heroHeadline": "Apoyo a su<br><span class=\"text-primary\">Bienestar Íntimo</span>",
+  "heroTitle": "Tratamiento de Salud Sexual en St. Petersburg, FL",
+  "heroSubheadline": "Atención médica integral evaluada y prescrita por médicos en St. Petersburg, FL.",
+  "heroCTA": "Programe su evaluación clínica",
+  "quiz": {
+    "badge": "Evaluación rápida",
+    "headline": "Encuentre su plan de bienestar",
+    "subheadline": "Responda 3 preguntas para ayudar a nuestro médico a evaluar sus necesidades.",
+    "step1": {
+      "question": "¿Cuál es su principal inquietud clínica?",
+      "sub": "Elija la opción que desea discutir con su médico.",
+      "options": [
+        {
+          "value": "performance",
+          "icon": "fa-mars",
+          "title": "Salud sexual masculina",
+          "desc": "Buscando evaluación de función vascular y hormonal."
+        },
+        {
+          "value": "desire",
+          "icon": "fa-venus",
+          "title": "Salud sexual femenina",
+          "desc": "Buscando evaluación de la intimidad y el estado de ánimo."
+        },
+        {
+          "value": "hormones",
+          "icon": "fa-syringe",
+          "title": "Balance hormonal",
+          "desc": "Interés en pruebas de laboratorio para fatiga general e intimidad."
+        }
+      ]
+    },
+    "step2": {
+      "question": "¿Ha buscado ayuda médica para esto antes?",
+      "sub": "Ayuda a entender su historial de tratamiento.",
+      "options": [
+        {
+          "value": "no",
+          "icon": "fa-user-md",
+          "title": "Primera vez",
+          "desc": "No he discutido esto con un médico antes."
+        },
+        {
+          "value": "yes",
+          "icon": "fa-file-medical",
+          "title": "Sí, lo he hecho",
+          "desc": "He probado otras opciones recetadas."
+        }
+      ]
+    },
+    "step3": {
+      "question": "¿Le interesan las terapias con PRP (Plasma Rico en Plaquetas)?",
+      "sub": "Opciones regenerativas evaluadas médicamente para apoyar los tejidos.",
+      "options": [
+        {
+          "value": "yes",
+          "icon": "fa-dna",
+          "title": "Sí, estoy interesado",
+          "desc": "Deseo explorar opciones terapéuticas avanzadas."
+        },
+        {
+          "value": "no",
+          "icon": "fa-pills",
+          "title": "No estoy seguro",
+          "desc": "Prefiero discutir opciones generales primero."
+        }
+      ]
+    },
+    "protocols": {
+      "performance": {
+        "tag": "Plan masculino",
+        "name": "Evaluación de Salud Masculina",
+        "peptides": "Terapias prescritas + PRP según evaluación",
+        "icon": "fa-mars",
+        "desc": "Enfoque clínico integral para la salud masculina que puede incluir pruebas hormonales y evaluación de apoyo vascular.",
+        "goalModifiers": {
+          "yes": "Evaluaremos terapias regenerativas como PRP si son clínicamente adecuadas.",
+          "no": "Nos enfocaremos en evaluación hormonal y farmacológica inicial."
+        },
+        "social": "Pacientes han consultado protocolos similares con nuestro equipo."
+      },
+      "desire": {
+        "tag": "Plan femenino",
+        "name": "Evaluación de Salud Femenina",
+        "peptides": "Evaluación hormonal + PRP según evaluación",
+        "icon": "fa-venus",
+        "desc": "Atención médica enfocada en el apoyo hormonal y el bienestar general.",
+        "goalModifiers": {
+          "yes": "Podemos discutir enfoques PRP enfocados en mujeres tras evaluación médica.",
+          "no": "Iniciaremos con laboratorios completos y consultas hormonales."
+        },
+        "social": "Individuos buscan evaluación clínica para la intimidad."
+      },
+      "hormones": {
+        "tag": "Plan general",
+        "name": "Evaluación Hormonal y de Vitalidad",
+        "peptides": "Análisis y apoyo prescrito",
+        "icon": "fa-syringe",
+        "desc": "Busca abordar factores sistémicos que afectan el bienestar y la intimidad.",
+        "goalModifiers": {
+          "yes": "Evaluación holística que puede incluir opciones regenerativas.",
+          "no": "Enfoque principal en equilibrio hormonal y de energía."
+        },
+        "social": "Pacientes suelen comenzar su atención con una evaluación hormonal."
+      }
+    },
+    "timelineMap": {
+      "no": "Consultas iniciales para establecer su plan médico",
+      "yes": "Revisión de terapias previas para ajustar el protocolo clínico"
+    }
+  },
+  "eligibility": {
+    "badge": "¿Para quién es esto?",
+    "headline": "¿Es usted candidato para esta evaluación?",
+    "intro": "Todos los protocolos de bienestar sexual requieren una consulta privada y confidencial con un proveedor de atención médica con licencia, seguido de las pruebas clínicas necesarias. Los resultados individuales varían.",
+    "note": "¿Preguntas? Aseguramos discreción y orientación médica adecuada.",
+    "ctaText": "Programe una evaluación confidencial",
+    "items": [
+      {
+        "label": "Cambios en la función sexual",
+        "detail": "Hombres y mujeres que notan cambios en su bienestar íntimo o función vascular."
+      },
+      {
+        "label": "Interés en apoyo clínico",
+        "detail": "Personas que buscan opciones evaluadas y recetadas médicamente en lugar de suplementos no regulados."
+      },
+      {
+        "label": "Fluctuaciones hormonales",
+        "detail": "Pacientes que experimentan síntomas relacionados con posibles desequilibrios hormonales."
+      },
+      {
+        "label": "Deseo de terapias integrales",
+        "detail": "Buscando explorar PRP y otras terapias médicas avanzadas si están indicadas."
+      },
+      {
+        "label": "Atención profesional",
+        "detail": "Aquellos que prefieren discutir estos temas con profesionales de la salud con licencia."
+      }
+    ]
+  },
+  "protocols": {
+    "badge": "Opciones Médicas",
+    "sectionHeadline": "Terapias guiadas por médicos",
+    "sectionSubheadline": "Intervenciones evaluadas clínicamente y prescritas tras consulta.",
+    "items": [
+      {
+        "icon": "fa-syringe",
+        "name": "Terapias Farmacológicas Prescritas",
+        "tag": "Tratamiento médico",
+        "description": "Medicamentos orales o inyectables prescritos según evaluación médica para apoyo vascular o función sexual."
+      },
+      {
+        "icon": "fa-dna",
+        "name": "Terapia PRP (Plasma Rico en Plaquetas)",
+        "tag": "Medicina regenerativa",
+        "description": "Evaluación del uso de factores de su propia sangre para buscar apoyar los tejidos (ej. O-Shot, P-Shot) bajo criterio médico."
+      },
+      {
+        "icon": "fa-mars-double",
+        "name": "Optimización Hormonal",
+        "tag": "Balance sistémico",
+        "description": "Pruebas y posible prescripción de TRT u hormonas bioidénticas según evaluación de necesidades."
+      },
+      {
+        "icon": "fa-heartbeat",
+        "name": "Terapia de Apoyo Vascular",
+        "tag": "Salud vascular",
+        "description": "Opciones clínicas orientadas a apoyar el flujo sanguíneo y la salud de los tejidos."
+      },
+      {
+        "icon": "fa-vial",
+        "name": "Laboratorios Avanzados",
+        "tag": "Diagnóstico",
+        "description": "Pruebas completas para evaluar marcadores subyacentes."
+      },
+      {
+        "icon": "fa-user-md",
+        "name": "Consultas Privadas",
+        "tag": "Evaluación médica",
+        "description": "Sesiones confidenciales con proveedores de atención médica con licencia."
+      }
+    ]
+  },
+  "science": {
+    "badge": "Cómo funciona",
+    "headline": "La importancia del<br><span class=\"text-primary\">criterio clínico integral</span>",
+    "body": "El bienestar sexual está influenciado por factores hormonales, vasculares y psicológicos. Nuestros proveedores de atención médica con licencia utilizan diagnósticos médicos para guiar opciones terapéuticas seguras y apropiadas. Los resultados individuales varían.",
+    "bullets": [
+      "Evaluación médica exhaustiva y pruebas de laboratorio requeridas",
+      "Terapias prescritas basadas en las necesidades clínicas de cada paciente",
+      "Seguimiento médico continuo para evaluar la respuesta"
+    ],
+    "stats": [
+      {
+        "value": "Integral",
+        "label": "Abordaje de múltiples factores"
+      },
+      {
+        "value": "Clínico",
+        "label": "Protocolos médicos recetados"
+      },
+      {
+        "value": "Privado",
+        "label": "Entorno confidencial"
+      },
+      {
+        "icon": "fa-user-md",
+        "label": "Atención médica con licencia"
+      }
+    ],
+    "cards": [
+      {
+        "icon": "fa-vial",
+        "title": "Evaluación Basada en Datos",
+        "detail": "Utilizamos análisis de laboratorio para identificar posibles causas subyacentes."
+      },
+      {
+        "icon": "fa-shield-alt",
+        "title": "Atención Supervisada",
+        "detail": "Todas las intervenciones son evaluadas y monitoreadas por profesionales médicos."
+      }
+    ]
+  },
+  "myths": [
+    {
+      "myth": "¿Esto es solo prescribir pastillas?",
+      "reality": "No. Realizamos una evaluación integral que puede incluir diferentes terapias regenerativas y hormonales."
+    },
+    {
+      "myth": "¿Son seguras las terapias PRP?",
+      "reality": "El PRP utiliza su propio plasma y es realizado por profesionales médicos capacitados en un entorno clínico."
+    },
+    {
+      "myth": "¿Mis resultados son inmediatos?",
+      "reality": "La respuesta varía. Algunas terapias toman semanas para mostrar beneficios clínicos completos tras la evaluación."
+    }
+  ],
+  "comparison": {
+    "headline": "Atención guiada por un proveedor de atención médica con licencia",
+    "subheadline": "Descubra los beneficios de la supervisión médica integral.",
+    "ctaText": "Llame a nuestra clínica hoy",
+    "mobileStats": [
+      {
+        "icon": "fa-user-md",
+        "label": "Médico"
+      },
+      {
+        "icon": "fa-vial",
+        "label": "Basado en laboratorio"
+      },
+      {
+        "icon": "fa-shield-alt",
+        "label": "Seguro"
+      },
+      {
+        "icon": "fa-heartbeat",
+        "label": "Integral"
+      }
+    ],
+    "rows": [
+      {
+        "metric": "Evaluación subyacente",
+        "without": "Tratamiento superficial de síntomas",
+        "with": "Identificación clínica de factores raíz"
+      },
+      {
+        "metric": "Opciones terapéuticas",
+        "without": "Limitado a píldoras estándar",
+        "with": "PRP, hormonas y terapias dirigidas"
+      },
+      {
+        "metric": "Calidad del cuidado",
+        "without": "Soluciones genéricas en línea",
+        "with": "Consultas privadas en clínica"
+      },
+      {
+        "metric": "Supervisión",
+        "without": "Sin monitoreo posterior",
+        "with": "Seguimiento médico continuo"
+      },
+      {
+        "metric": "Seguridad",
+        "without": "Riesgos no evaluados",
+        "with": "Revisión clínica completa"
+      }
+    ],
+    "stacks": [
+      {
+        "name": "Evaluación Integral Masculina",
+        "tag": "Más popular",
+        "compounds": "TRT + Opciones Prescritas",
+        "description": "Un plan médico enfocado en la salud hormonal y vascular masculina."
+      },
+      {
+        "name": "Plan de Bienestar Íntimo",
+        "tag": "Avanzado",
+        "compounds": "Evaluación de PRP (Plasma Rico en Plaquetas)",
+        "description": "Opciones regenerativas guiadas médicamente para el bienestar sexual."
+      },
+      {
+        "name": "Evaluación de Salud Femenina",
+        "tag": "Integral",
+        "compounds": "Hormonas Bioidénticas + Consulta",
+        "description": "Atención enfocada en el apoyo hormonal y de la intimidad para mujeres."
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "question": "¿Cómo es la consulta inicial?",
+      "answer": "Su consulta será privada con un proveedor de atención médica con licencia, quien revisará su historial médico y discutirá sus inquietudes."
+    },
+    {
+      "question": "¿Están cubiertos estos tratamientos por el seguro?",
+      "answer": "La mayoría de las terapias de bienestar sexual avanzado y optimización hormonal no están cubiertas por los seguros tradicionales. Ofrecemos precios transparentes en la clínica."
+    },
+    {
+      "question": "¿Necesito pruebas de laboratorio?",
+      "answer": "Sí, para garantizar la seguridad clínica, requerimos pruebas de laboratorio recientes antes de prescribir terapias hormonales o protocolos avanzados."
+    },
+    {
+      "question": "¿Qué es la terapia PRP para la salud sexual?",
+      "answer": "Es un procedimiento clínico (ej. P-Shot, O-Shot) donde se utiliza su propio plasma concentrado para buscar apoyar la función de los tejidos locales."
+    },
+    {
+      "question": "¿Cuánto tiempo duran los efectos de las terapias regenerativas?",
+      "answer": "Esto varía ampliamente entre individuos. Su médico discutirá los cronogramas de tratamiento y expectativas clínicas con usted."
+    },
+    {
+      "question": "¿Es todo confidencial?",
+      "answer": "Absolutamente. Toda su información y consultas se manejan bajo estricta confidencialidad médica."
+    }
+  ]
+}

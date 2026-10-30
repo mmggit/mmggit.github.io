@@ -1,0 +1,94 @@
+{
+  "seo": {
+    "title": "OVI Wellness — Medicina de Rendimiento Dirigida por Médicos en St. Petersburg, FL",
+    "description": "Bienestar Avanzado y Estética Regenerativa en OVI Wellness. Protocolos dirigidos por médicos, supervisados médicamente y basados en datos."
+  },
+  "hero": {
+    "headline": "Rendimiento Humano<br><span>Optimizado</span>",
+    "title": "Terapia Hormonal y Control Médico de Peso Dirigidos por Médicos en St. Petersburg, FL",
+    "subheadline": "Servicios personalizados de bienestar médico y estética guiados por profesionales de la salud con licencia.",
+    "cta": "Reserve su Consulta Médica",
+    "exploreBtn": "Explorar Más Protocolos"
+  },
+  "coreTherapies": {
+    "sectionTitle": "Terapias de Optimización Central"
+  },
+  "memberships": {
+    "sectionTitle": "Planes de Membresía Simples",
+    "ivBanner": {
+      "title": "¿Por Qué Agregar Terapia IV?",
+      "body": "La hidratación IV entrega fluidos y nutrientes seleccionados directamente en el torrente sanguíneo. Los beneficios potenciales, riesgos y la idoneidad varían según el paciente y son revisados por un proveedor de atención médica con licencia antes del tratamiento.",
+      "callBtn": "Llamar al (727) 476-8966",
+      "bookBtn": "Reservar Cita"
+    },
+    "plans": [
+      {
+        "id": "essential",
+        "name": "Plan Esencial",
+        "badge": "Inicial",
+        "description": "Optimización hormonal bioidéntica esencial y consultas médicas.",
+        "features": [
+          "<strong>Terapia Hormonal Bioidéntica Personalizada</strong>",
+          "<strong>Visitas y Consultas Médicas</strong> (Presenciales y Telesalud)",
+          "<strong>Monitoreo de Análisis de Sangre Rutinarios</strong>"
+        ],
+        "cta": "Reservar Plan Esencial"
+      },
+      {
+        "id": "optimal",
+        "name": "Plan Óptimo",
+        "badge": "Más Popular",
+        "description": "Membresía Nivel 2 que combina todos los beneficios del Plan Esencial más su elección de 1 servicio mensual adicional.",
+        "features": [
+          "<strong>Todo en el Plan Esencial</strong>",
+          "<strong>Elección de 1 Servicio Mensual Adicional:</strong> 2 sesiones de Hidratación IV al mes O 1 terapia de Péptidos a elegir"
+        ],
+        "cta": "Reservar Plan Óptimo"
+      },
+      {
+        "id": "vip",
+        "name": "Plan Ejecutivo",
+        "badge": "VIP Concierge",
+        "description": "Atención concierge integral con todo lo del Plan Óptimo, contacto prioritario con el médico e inyecciones IV y péptidos incluidos.",
+        "features": [
+          "<strong>Todo en el Plan Óptimo</strong>",
+          "<strong>Contacto Prioritario con el Médico</strong>",
+          "<strong>Terapia de Hidratación IV y Protocolos de Péptidos Incluidos</strong>"
+        ],
+        "cta": "Reservar Plan Ejecutivo"
+      }
+    ]
+  },
+  "whyUs": {
+    "sectionTitle": "Clínicos Licenciados. Atención Individualizada. Supervisión Médica Clara.",
+    "teamBadge": "Proveedores Médicos Certificados",
+    "teamSub": "Clínica Concierge con Licencia en Florida",
+    "meetBtn": "Conozca a los Médicos y Vea Credenciales",
+    "benefits": [
+      {
+        "icon": "fa-user-md",
+        "title": "Hable Directamente con su Proveedor",
+        "detail": "Sin centros de llamadas. Acceso directo a profesionales médicos licenciados."
+      },
+      {
+        "icon": "fa-vial",
+        "title": "Diseñado Solo para su Cuerpo",
+        "detail": "Recomendaciones de tratamiento basadas en historial médico, síntomas, examen cuando sea apropiado, y hallazgos de laboratorio relevantes."
+      },
+      {
+        "icon": "fa-file-invoice-dollar",
+        "title": "Inclusiones de Membresía Claramente Definidas",
+        "detail": "Los medicamentos, pruebas de especialidad, procedimientos y cargos de farmacias de terceros se listan por separado cuando no están incluidos."
+      }
+    ]
+  },
+  "additionalServices": {
+    "sectionTitle": "Servicios Adicionales de Optimización"
+  },
+  "faqs": {
+    "sectionTitle": "Preguntas Frecuentes"
+  },
+  "socialProof": {
+    "sectionTitle": "Conéctese con Nosotros en Redes Sociales"
+  }
+}

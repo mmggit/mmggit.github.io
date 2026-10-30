@@ -1,0 +1,399 @@
+{
+  "id": "peptides",
+  "type": "core",
+  "tabLabel": "Terapia con Péptidos",
+  "href": "peptides",
+  "title": "Consulta Relacionada con Péptidos",
+  "lead": "Evaluación clínica para apoyar los procesos naturales del cuerpo relacionados con el bienestar articular y la recuperación celular.",
+  "description": "Los péptidos son aminoácidos que participan en diversas funciones del organismo. Un proveedor de atención médica con licencia puede evaluar si ciertas opciones terapéuticas pueden apoyar sus objetivos de salud. Los resultados individuales varían.",
+  "icon": "fa-vial",
+  "delay": "-2s",
+  "features": [
+    "Apoyo al bienestar articular y muscular",
+    "Evaluación del descanso y bienestar general",
+    "Apoyo sistémico integral",
+    "Supervisado por un proveedor de atención médica con licencia"
+  ],
+  "image": "assets/images/photos/peptide-therapy.jpg",
+  "ctaText": "Programe su evaluación clínica",
+  "pageTitle": "Terapia con Péptidos Guiada por Médicos — OVI Wellness",
+  "pageDescription": "Consulta sobre terapia con péptidos en St. Petersburg, FL. Prescrita por proveedores de atención médica con licencia tras evaluación médica.",
+  "heroHeadline": "Apoyo a la<br><span class=\"text-primary\">Recuperación Celular</span>",
+  "heroTitle": "Terapia con Péptidos en St. Petersburg, FL",
+  "heroSubheadline": "Protocolos de péptidos prescritos bajo supervisión clínica en St. Petersburg, FL.",
+  "heroCTA": "Programe su evaluación hoy",
+  "quiz": {
+    "badge": "Evaluación rápida",
+    "headline": "Encuentre su plan de bienestar",
+    "subheadline": "Responda 3 preguntas para ayudar a nuestro médico a evaluar sus necesidades.",
+    "step1": {
+      "question": "¿Cuál es su mayor desafío diario?",
+      "sub": "Elija su prioridad principal.",
+      "options": [
+        {
+          "value": "pain",
+          "icon": "fa-crutch",
+          "title": "Molestias articulares y musculares",
+          "desc": "Busca apoyo para la recuperación de las articulaciones."
+        },
+        {
+          "value": "performance",
+          "icon": "fa-stopwatch",
+          "title": "Recuperación física lenta",
+          "desc": "Busca apoyo después del entrenamiento."
+        },
+        {
+          "value": "energy",
+          "icon": "fa-battery-quarter",
+          "title": "Fatiga general",
+          "desc": "Interesado en apoyo para el descanso y la energía."
+        },
+        {
+          "value": "body",
+          "icon": "fa-fire",
+          "title": "Composición corporal",
+          "desc": "Apoyo para metas metabólicas."
+        }
+      ]
+    },
+    "step2": {
+      "question": "¿Durante cuánto tiempo ha experimentado esto?",
+      "sub": "Ayuda a guiar su protocolo.",
+      "options": [
+        {
+          "value": "short",
+          "icon": "fa-calendar",
+          "title": "Menos de 3 meses",
+          "desc": "Problemas recientes o relacionados con actividad física."
+        },
+        {
+          "value": "medium",
+          "icon": "fa-calendar-alt",
+          "title": "3–12 meses",
+          "desc": "Síntomas persistentes por varios meses."
+        },
+        {
+          "value": "long",
+          "icon": "fa-calendar-check",
+          "title": "Más de 1 año",
+          "desc": "Desafíos crónicos de largo plazo."
+        }
+      ]
+    },
+    "step3": {
+      "question": "¿Cuál es su meta principal?",
+      "sub": "Ayuda a establecer expectativas clínicas.",
+      "options": [
+        {
+          "value": "train",
+          "icon": "fa-dumbbell",
+          "title": "Apoyo a la actividad física",
+          "desc": "Buscando moverse con mayor comodidad."
+        },
+        {
+          "value": "muscle",
+          "icon": "fa-chart-line",
+          "title": "Apoyo muscular",
+          "desc": "Interesado en la masa magra funcional."
+        },
+        {
+          "value": "feel",
+          "icon": "fa-brain",
+          "title": "Descanso y energía",
+          "desc": "Interesado en apoyar el sueño y la vitalidad."
+        },
+        {
+          "value": "fat",
+          "icon": "fa-weight",
+          "title": "Metas de composición corporal",
+          "desc": "Apoyo metabólico como parte de su bienestar."
+        }
+      ]
+    },
+    "protocols": {
+      "pain": {
+        "tag": "Plan recomendado",
+        "name": "Apoyo articular guiado",
+        "peptides": "Opciones de péptidos según protocolo clínico",
+        "icon": "fa-shield-alt",
+        "desc": "Opciones prescritas que pueden ayudar en los procesos de recuperación de tejidos.",
+        "goalModifiers": {
+          "train": "Busca apoyar su capacidad para mantener rutinas activas.",
+          "muscle": "Apoya la función celular y el tejido conectivo.",
+          "feel": "Interesado en un movimiento más cómodo.",
+          "fat": "Apoyo general a la actividad física."
+        },
+        "social": "Pacientes locales han consultado sobre este protocolo."
+      },
+      "performance": {
+        "tag": "Plan de apoyo muscular",
+        "name": "Apoyo para el desempeño físico",
+        "peptides": "Opciones clínicas y metabólicas",
+        "icon": "fa-dumbbell",
+        "desc": "Evalúa el uso de terapias para apoyar los niveles de energía y la recuperación.",
+        "goalModifiers": {
+          "train": "Apoyo dirigido a la recuperación tras actividad.",
+          "muscle": "Busca apoyar los procesos naturales del cuerpo.",
+          "feel": "Enfoque en el descanso y bienestar general.",
+          "fat": "Combinado con apoyo a la masa magra."
+        },
+        "social": "Individuos activos evalúan esta opción médica."
+      },
+      "energy": {
+        "tag": "Plan de vitalidad",
+        "name": "Evaluación de energía celular",
+        "peptides": "Protocolo de apoyo general",
+        "icon": "fa-bolt",
+        "desc": "Enfoque clínico para abordar posibles factores que afectan el estado de alerta.",
+        "goalModifiers": {
+          "train": "Apoyo general a la resistencia celular.",
+          "muscle": "Busca apoyar la homeostasis post-ejercicio.",
+          "feel": "Para aquellos que reportan fatiga continua.",
+          "fat": "Como parte de un enfoque metabólico integral."
+        },
+        "social": "Pacientes reportan interés en protocolos de energía."
+      },
+      "body": {
+        "tag": "Apoyo metabólico",
+        "name": "Evaluación de composición corporal",
+        "peptides": "Protocolos específicos",
+        "icon": "fa-fire",
+        "desc": "Orientado a pacientes con objetivos relacionados con el metabolismo.",
+        "goalModifiers": {
+          "train": "Apoyo clínico a la actividad regular.",
+          "muscle": "Combinación con hábitos saludables.",
+          "feel": "Evaluación de múltiples factores de bienestar.",
+          "fat": "Asistencia dirigida a las metas de composición."
+        },
+        "social": "Consultas frecuentes para manejo metabólico."
+      }
+    },
+    "timelineMap": {
+      "short": "6–8 semanas (Evaluación inicial)",
+      "medium": "8–12 semanas (Seguimiento médico)",
+      "long": "12–16 semanas (Plan a largo plazo)"
+    }
+  },
+  "eligibility": {
+    "badge": "¿Para quién es esto?",
+    "headline": "¿Es usted candidato para evaluación con péptidos?",
+    "intro": "La elegibilidad para estas opciones requiere una evaluación clínica exhaustiva. Un médico con licencia determinará si es apropiado para su situación médica específica. Los resultados individuales varían.",
+    "note": "¿Preguntas? Nuestro equipo médico le guiará durante su consulta.",
+    "ctaText": "Llámenos para revisar opciones",
+    "items": [
+      {
+        "label": "Malestar articular",
+        "detail": "Adultos buscando evaluación para molestias articulares o tendinosas."
+      },
+      {
+        "label": "Fatiga o recuperación lenta",
+        "detail": "Personas que buscan alternativas para el apoyo físico."
+      },
+      {
+        "label": "Interés en apoyo médico",
+        "detail": "Pacientes que desean un enfoque clínico regulado en lugar de suplementos genéricos."
+      },
+      {
+        "label": "Objetivos metabólicos",
+        "detail": "Adultos interesados en apoyar su sueño y composición corporal."
+      },
+      {
+        "label": "Listo para atención clínica",
+        "detail": "Buscando opciones prescritas y supervisión periódica."
+      }
+    ]
+  },
+  "protocols": {
+    "badge": "Opciones disponibles",
+    "sectionHeadline": "Tratamientos guiados por médicos",
+    "sectionSubheadline": "Opciones prescritas adaptadas tras evaluación clínica.",
+    "items": [
+      {
+        "icon": "fa-running",
+        "name": "Opciones de péptidos según protocolo",
+        "tag": "Apoyo articular",
+        "description": "Evaluación clínica para el uso de péptidos de apoyo tisular."
+      },
+      {
+        "icon": "fa-kit-medical",
+        "name": "Opciones combinadas",
+        "tag": "Bienestar",
+        "description": "El médico puede considerar terapias combinadas según sus necesidades clínicas."
+      },
+      {
+        "icon": "fa-dumbbell",
+        "name": "Apoyo para el descanso",
+        "tag": "Crecimiento y sueño",
+        "description": "Opciones prescritas que pueden apoyar los procesos fisiológicos nocturnos."
+      },
+      {
+        "icon": "fa-bolt-lightning",
+        "name": "Protocolos metabólicos",
+        "tag": "Composición corporal",
+        "description": "Uso evaluado clínicamente para metas específicas de salud física."
+      },
+      {
+        "icon": "fa-battery-full",
+        "name": "Apoyo antioxidante",
+        "tag": "Defensa celular",
+        "description": "Evaluación para el uso de antioxidantes guiados médicamente."
+      },
+      {
+        "icon": "fa-flask",
+        "name": "Evaluación de laboratorios",
+        "tag": "Seguridad clínica",
+        "description": "Pruebas diagnósticas para fundamentar las decisiones médicas."
+      }
+    ]
+  },
+  "science": {
+    "badge": "Cómo funciona",
+    "headline": "La importancia del<br><span class=\"text-primary\">criterio clínico</span>",
+    "body": "Los péptidos interactúan con procesos celulares específicos. Nuestro equipo de proveedores de atención médica con licencia revisará su estado de salud antes de considerar cualquier protocolo peptídico para su plan de bienestar. Los resultados individuales varían.",
+    "bullets": [
+      "Prescritos exclusivamente por médicos tras evaluación clínica",
+      "Formulaciones preparadas en farmacias acreditadas",
+      "Supervisión continua de la respuesta terapéutica"
+    ],
+    "stats": [
+      {
+        "value": "Clínico",
+        "label": "Apoyo evaluado caso por caso"
+      },
+      {
+        "value": "Seguro",
+        "label": "Supervisión médica continua"
+      },
+      {
+        "value": "Calidad",
+        "label": "Compuestos de farmacia"
+      },
+      {
+        "icon": "fa-user-md",
+        "label": "Atención médica certificada"
+      }
+    ],
+    "cards": [
+      {
+        "icon": "fa-vial",
+        "title": "Verificado por médicos",
+        "detail": "Las opciones terapéuticas se evalúan cuidadosamente según la necesidad del paciente."
+      },
+      {
+        "icon": "fa-bullseye",
+        "title": "Enfoque celular",
+        "detail": "Se buscan enfoques que apoyen el bienestar sistémico."
+      }
+    ]
+  },
+  "myths": [
+    {
+      "myth": "¿Son esteroides anabólicos?",
+      "reality": "No. Los péptidos son secuencias de aminoácidos distintas y su uso en nuestra práctica es evaluado clínicamente, no para uso no regulado."
+    },
+    {
+      "myth": "¿Debo usar esto indefinidamente?",
+      "reality": "Los planes médicos se estructuran por periodos definidos. Tras alcanzar sus metas, su médico evaluará opciones de mantenimiento."
+    },
+    {
+      "myth": "¿Es legal y segura la terapia?",
+      "reality": "Las opciones de tratamiento se discuten durante la consulta y se prescriben según las regulaciones médicas."
+    }
+  ],
+  "comparison": {
+    "headline": "Atención guiada por un proveedor de atención médica con licencia",
+    "subheadline": "Descubra la importancia del monitoreo médico.",
+    "ctaText": "Llame a nuestra clínica hoy",
+    "mobileStats": [
+      {
+        "icon": "fa-bolt",
+        "label": "Apoyo físico"
+      },
+      {
+        "icon": "fa-fire",
+        "label": "Composición"
+      },
+      {
+        "icon": "fa-brain",
+        "label": "Descanso"
+      },
+      {
+        "icon": "fa-shield-alt",
+        "label": "Clínicamente guiado"
+      }
+    ],
+    "rows": [
+      {
+        "metric": "Apoyo en recuperación",
+        "without": "Soluciones convencionales variables",
+        "with": "Evaluación médica enfocada"
+      },
+      {
+        "metric": "Bienestar articular",
+        "without": "Manejo temporal no clínico",
+        "with": "Apoyo dirigido por especialistas"
+      },
+      {
+        "metric": "Niveles de energía",
+        "without": "Alternancias constantes",
+        "with": "Monitoreo del bienestar integral"
+      },
+      {
+        "metric": "Calidad de descanso",
+        "without": "Posible dificultad persistente",
+        "with": "Apoyo clínico evaluado"
+      },
+      {
+        "metric": "Seguridad",
+        "without": "Riesgos de productos no regulados",
+        "with": "Supervisión clínica continua"
+      }
+    ],
+    "stacks": [
+      {
+        "name": "Protocolo de apoyo articular",
+        "tag": "Más popular",
+        "compounds": "Opciones de péptidos según protocolo",
+        "description": "Enfoque clínico combinado para el bienestar musculoesquelético."
+      },
+      {
+        "name": "Plan de bienestar físico",
+        "tag": "Apoyo muscular",
+        "compounds": "Evaluaciones metabólicas específicas",
+        "description": "Destinado a apoyar metas de composición corporal en adultos."
+      },
+      {
+        "name": "Reinicio bioenergético",
+        "tag": "Vitalidad",
+        "compounds": "Opciones clínicas y de apoyo celular",
+        "description": "Evaluación para el apoyo contra la fatiga sistémica."
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "question": "¿Necesito una receta médica?",
+      "answer": "Sí. Todos los protocolos clínicos de péptidos son prescripciones médicas. Consultará con un médico con licencia que evaluará su salud general."
+    },
+    {
+      "question": "¿Qué incluye el programa?",
+      "answer": "Incluye consultas directas, evaluación de laboratorios y seguimiento continuo de las opciones prescritas."
+    },
+    {
+      "question": "¿Cómo se administran?",
+      "answer": "Las opciones pueden incluir diferentes vías de administración, las cuales su médico discutirá con usted según su plan personalizado."
+    },
+    {
+      "question": "¿Qué tan pronto notaré algún beneficio?",
+      "answer": "La progresión clínica varía individualmente. Su médico monitoreará los resultados a lo largo de las semanas iniciales."
+    },
+    {
+      "question": "¿Se pueden combinar con otras terapias?",
+      "answer": "Su médico evaluará posibles interacciones y podrá recomendar combinaciones seguras como parte de un plan integral."
+    },
+    {
+      "question": "¿Cómo puedo empezar?",
+      "answer": "Comuníquese con nosotros para programar su evaluación clínica y explorar opciones según sus necesidades."
+    }
+  ]
+}
