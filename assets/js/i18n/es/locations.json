@@ -1,0 +1,178 @@
+{
+  "stPete": {
+    "seo": {
+      "title": "OVI Wellness | Clínica de St. Petersburg | TRT, Pérdida de Peso y Estética",
+      "description": "Visite OVI Wellness en St. Petersburg, FL. Clínica de TRT dirigida por proveedores de atención médica con licencia, pérdida de peso metabólica (Semaglutida/Tirzepatida), terapia de péptidos e inyecciones de Botox. Programe su evaluación clínica."
+    },
+    "name": "OVI Wellness — St. Petersburg",
+    "description": "Clínica de TRT dirigida por proveedores de atención médica con licencia, pérdida de peso médica (Semaglutida/Tirzepatida), estética avanzada y terapia de péptidos en St. Petersburg, Florida.",
+    "url": "https://oviwellness.com/st-pete",
+    "areaServed": [
+      "St. Petersburg",
+      "Tampa",
+      "Clearwater",
+      "Pinellas County",
+      "Hillsborough County"
+    ],
+    "heroHeadline": "OVI Wellness <br><span class='text-primary'>St. Pete</span>",
+    "heroSubheadline": "Pierda el peso no deseado, siéntase revitalizado y recupere su energía diaria. Guiado por proveedores de atención médica con licencia en Florida con análisis de sangre sencillos y tratamientos clínicamente evaluados. Los resultados individuales varían.",
+    "heroCTA": "Programar Evaluación Clínica",
+    "advantageHeadline": "Proveedores Reales. Seguridad Clínica. Resultados Médicos.",
+    "advantageText": "Cuidar de su cuerpo debe ser un proceso médico seguro. Nuestra clínica en St. Petersburg está dirigida por proveedores de atención médica con licencia. Primero evaluamos su perfil sanguíneo, creamos un plan personalizado para usted y lo guiamos en cada paso. Todos los tratamientos siguen las estrictas pautas de la junta médica de Florida y los estándares de cumplimiento de LegitScript. Los resultados individuales varían.",
+    "advantageImage": "assets/images/photos/peptide-therapy.jpg",
+    "advantageBullets": [
+      "Proveedores de Atención Médica con Licencia en Florida",
+      "Seguro y en Cumplimiento con LegitScript",
+      "Análisis de Sangre Previos al Tratamiento",
+      "Compuestos de Calidad Farmacéutica"
+    ],
+    "treatmentsHeadline": "Programas Respaldados por Proveedores Médicos",
+    "treatmentsSubheadline": "Elija el programa que se adapte a sus objetivos de salud. Cada plan incluye atención médica directa y evaluaciones de progreso.",
+    "treatmentsGrid": [
+      {
+        "title": "Optimización Hormonal (TRT)",
+        "icon": "fa-syringe",
+        "desc": "Recupere su energía física y enfoque. Terapia de reemplazo de testosterona (TRT) personalizada basada en el seguimiento de biomarcadores de diagnóstico bajo supervisión médica. Los resultados individuales varían.",
+        "link": "services/hormone-optimization",
+        "linkText": "Explorar Programa TRT"
+      },
+      {
+        "title": "Pérdida de Peso Médica",
+        "icon": "fa-weight-scale",
+        "desc": "Reduzca la grasa visceral mientras preserva activamente el músculo magro. Protocolos premium de Semaglutida y Tirzepatida calibrados para su metabolismo. Los resultados individuales varían.",
+        "link": "services/glp-1therapies",
+        "linkText": "Explorar Pérdida de Peso"
+      },
+      {
+        "title": "Terapia de Péptidos",
+        "icon": "fa-vial",
+        "desc": "Apoye la curación de tejidos, la recuperación muscular y la salud intestinal con péptidos de señalización celular de calidad farmacéutica (Opciones de péptidos, opciones de péptidos). Los resultados individuales varían.",
+        "link": "services/peptides",
+        "linkText": "Explorar Péptidos"
+      },
+      {
+        "title": "Medicina Regenerativa",
+        "icon": "fa-heartbeat",
+        "desc": "Aproveche las terapias de PRP, plasma rico en plaquetas autólogo y factores de crecimiento clínico para la reparación celular, folicular y articular. Los resultados individuales varían.",
+        "link": "services/regenerative-medicine",
+        "linkText": "Explorar Regeneración"
+      },
+      {
+        "title": "Salud Sexual",
+        "icon": "fa-heart",
+        "desc": "Terapia dirigida para apoyar la capacidad de respuesta física, el deseo íntimo y la vitalidad general utilizando un equilibrio hormonal preciso e individual. Los resultados individuales varían.",
+        "link": "services/sexual-wellness",
+        "linkText": "Explorar Salud Sexual"
+      },
+      {
+        "title": "Hidratación de Nutrientes IV",
+        "icon": "fa-tint",
+        "desc": "Proporcione glutatión, vitaminas esenciales e hidratación dirigida directamente al torrente sanguíneo para apoyar la absorción y la revitalización celular.",
+        "link": "services/iv-wellness",
+        "linkText": "Explorar Sueros IV"
+      },
+      {
+        "title": "Protocolos de Desintoxicación",
+        "icon": "fa-leaf",
+        "desc": "Protocolos de limpieza integrales para apoyar la salud sistémica y la función intestinal óptima.",
+        "link": "services/detox",
+        "linkText": "Explorar Desintoxicación"
+      },
+      {
+        "title": "Laboratorios de Diagnóstico Avanzados",
+        "icon": "fa-flask",
+        "desc": "Paneles clínicos profundos que incluyen MTHFR, perfiles de micronutrientes, metales pesados y biomarcadores cardíacos avanzados.",
+        "link": "services/advanced-labs",
+        "linkText": "Explorar Laboratorios"
+      }
+    ]
+  },
+  "tampa": {
+    "seo": {
+      "title": "OVI Wellness | Clínica de Tampa | TRT, Pérdida de Peso y Estética",
+      "description": "Visite la Clínica de Tampa de OVI Wellness. Sirviendo a pacientes de Tampa con TRT dirigida por proveedores de atención médica, pérdida de peso (Semaglutida/Tirzepatida), péptidos y estética en nuestra ubicación. Programe su evaluación clínica."
+    },
+    "name": "OVI Wellness — Clínica de Tampa",
+    "description": "Clínica de TRT dirigida por proveedores de atención médica con licencia, pérdida de peso médica, péptidos y estética que sirve a la Bahía de Tampa, con oficina física ubicada en St. Petersburg.",
+    "url": "https://oviwellness.com/tampa",
+    "areaServed": [
+      "Tampa",
+      "St. Petersburg",
+      "Clearwater",
+      "Hillsborough County",
+      "Pinellas County"
+    ],
+    "heroHeadline": "OVI Wellness <br><span class='text-primary'>Clínica de Tampa</span>",
+    "heroSubheadline": "Programas de pérdida de peso, TRT personalizada y tratamientos de bienestar para pacientes de Tampa. Visite nuestra clínica física en la cercana St. Pete o hable con su proveedor de atención médica en línea. Los resultados individuales varían.",
+    "heroCTA": "Programar Evaluación Clínica",
+    "advantageHeadline": "Atención Médica de Primer Nivel para Pacientes de Tampa",
+    "advantageText": "¿Vive en Tampa? Nuestra oficina médica física está a un corto trayecto cruzando el puente en St. Pete. Realícese sus análisis de sangre en persona, conozca a su proveedor de atención médica o reciba atención de telesalud desde casa. Proveedores de atención médica con licencia, revisión completa de análisis de sangre y protocolos de cumplimiento legal.",
+    "advantageImage": "assets/images/photos/peptide-therapy.jpg",
+    "advantageBullets": [
+      "Proveedores de Atención Médica con Licencia en Florida",
+      "Estándares de Cumplimiento de LegitScript",
+      "Visitas en Persona y de Telesalud",
+      "Medicina Segura y Conforme a Normativas"
+    ],
+    "treatmentsHeadline": "Nuestros Programas Más Populares en Tampa",
+    "treatmentsSubheadline": "Elija su protocolo. Comience con una evaluación clínica y un panel de sangre personalizado.",
+    "treatmentsGrid": [
+      {
+        "title": "Optimización Hormonal (TRT)",
+        "icon": "fa-syringe",
+        "desc": "Recupere su energía física y enfoque. Terapia de reemplazo de testosterona (TRT) personalizada basada en el seguimiento de biomarcadores de diagnóstico bajo supervisión médica. Los resultados individuales varían.",
+        "link": "services/hormone-optimization",
+        "linkText": "Explorar Programa TRT"
+      },
+      {
+        "title": "Pérdida de Peso Médica",
+        "icon": "fa-weight-scale",
+        "desc": "Reduzca la grasa visceral mientras preserva activamente el músculo magro. Protocolos premium de Semaglutida y Tirzepatida calibrados para su metabolismo. Los resultados individuales varían.",
+        "link": "services/glp-1therapies",
+        "linkText": "Explorar Pérdida de Peso"
+      },
+      {
+        "title": "Terapia de Péptidos",
+        "icon": "fa-vial",
+        "desc": "Apoye la curación de tejidos, la recuperación muscular y la salud intestinal con péptidos de señalización celular de calidad farmacéutica (Opciones de péptidos, opciones de péptidos). Los resultados individuales varían.",
+        "link": "services/peptides",
+        "linkText": "Explorar Péptidos"
+      },
+      {
+        "title": "Medicina Regenerativa",
+        "icon": "fa-heartbeat",
+        "desc": "Aproveche las terapias de PRP, plasma rico en plaquetas autólogo y factores de crecimiento clínico para la reparación celular, folicular y articular. Los resultados individuales varían.",
+        "link": "services/regenerative-medicine",
+        "linkText": "Explorar Regeneración"
+      },
+      {
+        "title": "Salud Sexual",
+        "icon": "fa-heart",
+        "desc": "Terapia dirigida para apoyar la capacidad de respuesta física, el deseo íntimo y la vitalidad general utilizando un equilibrio hormonal preciso e individual. Los resultados individuales varían.",
+        "link": "services/sexual-wellness",
+        "linkText": "Explorar Salud Sexual"
+      },
+      {
+        "title": "Hidratación de Nutrientes IV",
+        "icon": "fa-tint",
+        "desc": "Proporcione glutatión, vitaminas esenciales e hidratación dirigida directamente al torrente sanguíneo para apoyar la absorción y la revitalización celular.",
+        "link": "services/iv-wellness",
+        "linkText": "Explorar Sueros IV"
+      },
+      {
+        "title": "Protocolos de Desintoxicación",
+        "icon": "fa-leaf",
+        "desc": "Protocolos de limpieza integrales para apoyar la salud sistémica y la función intestinal óptima.",
+        "link": "services/detox",
+        "linkText": "Explorar Desintoxicación"
+      },
+      {
+        "title": "Laboratorios de Diagnóstico Avanzados",
+        "icon": "fa-flask",
+        "desc": "Paneles clínicos profundos que incluyen MTHFR, perfiles de micronutrientes, metales pesados y biomarcadores cardíacos avanzados.",
+        "link": "services/advanced-labs",
+        "linkText": "Explorar Laboratorios"
+      }
+    ]
+  }
+}
