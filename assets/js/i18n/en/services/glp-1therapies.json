@@ -1,0 +1,332 @@
+{
+  "id": "glp-1therapies",
+  "type": "core",
+  "tabLabel": "GLP-1 Weight Loss",
+  "href": "glp-1therapies",
+  "title": "Medical Weight Management with Clinician-Guided Treatment Options",
+  "lead": "A licensed provider evaluates whether a GLP-1 medication is appropriate for you and guides your plan.",
+  "description": "For eligible patients, prescription weight-management medications may reduce appetite and support weight loss when combined with nutrition, physical activity, and ongoing clinical monitoring.",
+  "icon": "fa-weight-scale",
+  "delay": "-1s",
+  "features": [
+    "Support for appetite control",
+    "Support for weight-management goals",
+    "Licensed doctor supervision & care",
+    "Simple weekly doctor-prescribed plan"
+  ],
+  "image": "assets/images/photos/glp1-weight-loss.jpg",
+  "ctaText": "Book Your Doctor Consultation",
+  "pageTitle": "Medical Weight Loss & GLP-1s in St. Petersburg, FL | OVI Wellness",
+  "pageDescription": "Doctor-guided medical weight loss in St. Petersburg, FL with semaglutide or tirzepatide when appropriate. Labs, nutrition and monthly check-ins.",
+  "heroHeadline": "Medical Weight<br><span class=\"text-primary\">Management</span>",
+  "heroTitle": "Medical Weight Loss With GLP-1s in St. Petersburg, FL",
+  "heroSubheadline": "Prescription GLP-1 options (including semaglutide and tirzepatide), physician-led and overseen by a board-certified doctor in St. Petersburg, FL.",
+  "heroCTA": "Book Your Doctor Call Today",
+  "quiz": {
+    "badge": "Quick 1-Minute Assessment",
+    "headline": "Find Your Best Weight Loss Plan",
+    "subheadline": "Answer 3 quick questions so our doctors can help you pick the right plan.",
+    "step1": {
+      "question": "What is your main weight goal?",
+      "sub": "Pick what matters most to you right now.",
+      "options": [
+        {
+          "value": "weight",
+          "icon": "fa-weight",
+          "title": "Lose Weight Fast",
+          "desc": "Burn body fat without feeling hungry all day."
+        },
+        {
+          "value": "metabolic",
+          "icon": "fa-heartbeat",
+          "title": "Fix My Energy & Health",
+          "desc": "Boost metabolism, energy, and overall health."
+        }
+      ]
+    },
+    "step2": {
+      "question": "Have you used GLP-1 weight loss treatments before?",
+      "sub": "Helps our doctor choose your starting dose.",
+      "options": [
+        {
+          "value": "no",
+          "icon": "fa-times-circle",
+          "title": "First Time",
+          "desc": "I have never tried GLP-1 treatments before."
+        },
+        {
+          "value": "yes",
+          "icon": "fa-check-circle",
+          "title": "Yes, I Have",
+          "desc": "I have used Semaglutide or Tirzepatide before."
+        }
+      ]
+    },
+    "step3": {
+      "question": "How much weight do you want to lose?",
+      "sub": "Sets a simple timeline for your results.",
+      "options": [
+        {
+          "value": "moderate",
+          "icon": "fa-arrow-down",
+          "title": "10 to 20 lbs",
+          "desc": "Targeted fat loss for a lighter feel."
+        },
+        {
+          "value": "significant",
+          "icon": "fa-arrow-circle-down",
+          "title": "20+ lbs",
+          "desc": "Major weight loss to rebuild your body."
+        }
+      ]
+    },
+    "protocols": {
+      "weight": {
+        "tag": "Recommended Plan",
+        "name": "Doctor-Guided Fat Burn Plan",
+        "peptides": "FDA-approved medications may be prescribed when indicated.",
+        "icon": "fa-weight-scale",
+        "desc": "A weekly prescription treatment that a licensed provider may consider to help reduce appetite as part of a medical weight-management plan, if you qualify.",
+        "goalModifiers": {
+          "moderate": "May be considered for moderate weight-management goals, with clinician guidance. Results vary.",
+          "significant": "May be considered for larger weight-management goals, with regular clinician check-ins. Results vary."
+        },
+        "social": "Over 100 local patients are currently using this doctor-guided plan."
+      },
+      "metabolic": {
+        "tag": "Health & Vitality Plan",
+        "name": "Total Body Reset Plan",
+        "peptides": "Tirzepatide + Vitamin Support",
+        "icon": "fa-heartbeat",
+        "desc": "A medical evaluation of metabolic health and, if clinically appropriate, a treatment plan.",
+        "goalModifiers": {
+          "moderate": "Your provider will evaluate possible causes and discuss options. Results vary.",
+          "significant": "A comprehensive evaluation of health markers and weight-management options. Results vary."
+        },
+        "social": "84 patients started this doctor-led plan in the last 90 days."
+      }
+    },
+    "timelineMap": {
+      "no": "12–16 weeks (Standard Doctor Plan)",
+      "yes": "8–12 weeks (Fast Track Plan)"
+    }
+  },
+  "eligibility": {
+    "badge": "Who Is This For?",
+    "headline": "Are You a Candidate for GLP-1 Care?",
+    "intro": "GLP-1 treatments are prescription medications. A licensed provider reviews your health history to decide whether treatment is appropriate for you.",
+    "note": "Questions about candidacy? Our medical team will guide you during your consultation.",
+    "ctaText": "Call Us Now to Check Candidacy",
+    "items": [
+      {
+        "label": "Stubborn Fat",
+        "detail": "Adults with 15+ lbs to lose who struggle to shed fat with diet alone."
+      },
+      {
+        "label": "Constant Cravings",
+        "detail": "Anyone tired of thinking about food, snacking at night, or feeling hungry all day."
+      },
+      {
+        "label": "Stuck Metabolism",
+        "detail": "People who exercise or diet but cannot get weight off."
+      },
+      {
+        "label": "Want Muscle Saved",
+        "detail": "You want to lose fat tissue while keeping your strong, healthy muscle."
+      },
+      {
+        "label": "Ready for Doctor Care",
+        "detail": "Looking for a doctor-prescribed plan with regular check-ins."
+      }
+    ]
+  },
+  "protocols": {
+    "badge": "Prescription Options",
+    "sectionHeadline": "Simple Weekly Doctor Treatments",
+    "sectionSubheadline": "Prescription GLP-1 options (including semaglutide and tirzepatide), tailored to you after a medical consultation. Some medications may be compounded; compounded medications are not FDA-approved. Availability depends on clinical eligibility and pharmacy fulfillment.",
+    "items": [
+      {
+        "icon": "fa-weight-scale",
+        "name": "Semaglutide Protocol",
+        "tag": "Most Popular",
+        "description": "Prescription GLP-1 treatment that acts on appetite signaling. Given as a weekly injection, as determined by your provider."
+      },
+      {
+        "icon": "fa-fire",
+        "name": "Tirzepatide Protocol",
+        "tag": "Dual Action",
+        "description": "Prescription treatment that acts on both GLP-1 and GIP receptors. Given as a weekly injection, as determined by your provider."
+      },
+      {
+        "icon": "fa-dna",
+        "name": "Advanced Evaluation Protocol",
+        "tag": "Targeted Care",
+        "description": "Clinical option for patients under specialized monitoring, determined through comprehensive medical evaluation."
+      },
+      {
+        "icon": "fa-leaf",
+        "name": "B12 & Wellness Injections",
+        "tag": "Supportive Care",
+        "description": "Vitamin injections that your provider may consider as a supportive option."
+      },
+      {
+        "icon": "fa-chart-line",
+        "name": "Doctor Blood Check",
+        "tag": "Baseline Labs",
+        "description": "Lab work so your provider can review your health and decide on a starting dose."
+      },
+      {
+        "icon": "fa-utensils",
+        "name": "Simple Eating Guide",
+        "tag": "Easy Meals",
+        "description": "Eating guidance to support your nutrition during weight management."
+      }
+    ],
+    "notice": "Compounded medications are not FDA-approved. The FDA does not review compounded medications for safety, effectiveness, or quality before they are marketed. These products are prepared by a licensed pharmacy for individual patients when a licensed clinician determines that an FDA-approved product does not meet that patient’s specific clinical needs."
+  },
+  "science": {
+    "badge": "How It Works",
+    "headline": "How GLP-1<br><span class=\"text-primary\">Treatments Work</span>",
+    "body": "GLP-1 medications mimic a natural hormone that signals fullness to the brain and slows stomach emptying, which can reduce appetite. They are used together with nutrition and physical activity. Some GLP-1 medications are FDA-approved brand-name products, and others are compounded and not FDA-approved. Results vary.",
+    "bullets": [
+      "Prescribed by real licensed medical doctors",
+      "Simple weekly treatment done at home or in clinic",
+      "Nutrition guidance as part of your plan"
+    ],
+    "stats": [
+      {
+        "value": "Appetite",
+        "label": "May reduce appetite; results vary"
+      },
+      {
+        "value": "Easy",
+        "label": "Simple weekly doctor plan"
+      },
+      {
+        "value": "Monitored",
+        "label": "Licensed clinician oversight & lab monitoring"
+      },
+      {
+        "icon": "fa-user-md",
+        "label": "Licensed Provider Oversight"
+      }
+    ],
+    "cards": [
+      {
+        "icon": "fa-brain",
+        "title": "Appetite Signaling",
+        "detail": "These medications act on pathways that signal fullness, which may reduce appetite in some patients."
+      },
+      {
+        "icon": "fa-dumbbell",
+        "title": "Nutrition Guidance",
+        "detail": "Your plan can include protein and nutrition guidance. Weight loss can include loss of lean mass, which is one reason clinician monitoring matters."
+      }
+    ]
+  },
+  "comparison": {
+    "headline": "Doctor-Guided Care vs. Doing It Alone",
+    "subheadline": "See how doctor supervision differs from doing it alone.",
+    "ctaText": "Call Our Clinic Today",
+    "mobileStats": [
+      {
+        "icon": "fa-fire",
+        "label": "Weight Management"
+      },
+      {
+        "icon": "fa-dumbbell",
+        "label": "Nutrition Guidance"
+      },
+      {
+        "icon": "fa-brain",
+        "label": "Appetite Support"
+      },
+      {
+        "icon": "fa-chart-line",
+        "label": "Doctor Checked"
+      }
+    ],
+    "rows": [
+      {
+        "metric": "Hunger Level",
+        "without": "Self-directed dieting",
+        "with": "Clinician-guided plan"
+      },
+      {
+        "metric": "Weight Management",
+        "without": "No medical guidance",
+        "with": "Plan tailored to you; results vary"
+      },
+      {
+        "metric": "Nutrition Guidance",
+        "without": "Often none",
+        "with": "Protein and nutrition guidance"
+      },
+      {
+        "metric": "Medical Oversight",
+        "without": "Unsupervised / generic",
+        "with": "Doctor-prescribed & lab-monitored"
+      },
+      {
+        "metric": "Ongoing Support",
+        "without": "Little follow-up",
+        "with": "Ongoing clinician follow-up"
+      }
+    ],
+    "stacks": [
+      {
+        "name": "Tirzepatide Plan",
+        "tag": "Most Popular",
+        "compounds": "Tirzepatide + Vitamin B12 Booster",
+        "description": "Prescription treatment combined with a vitamin B12 injection, as determined by your provider. Results vary."
+      },
+      {
+        "name": "Essential Weight Loss Plan",
+        "tag": "Great Starter",
+        "compounds": "Semaglutide + Eating Guide",
+        "description": "GLP-1 prescription paired with simple daily meal guidance, as determined by your provider. Results vary."
+      },
+      {
+        "name": "Advanced Management Protocol",
+        "tag": "Strict Monitoring",
+        "compounds": "Prescription Medication + Doctor Labs",
+        "description": "Specialized care through regular clinical evaluation and laboratory studies."
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Do I need a doctor's prescription for GLP-1 treatments?",
+      "answer": "Yes. All GLP-1 treatments are prescription medications. You will consult with our licensed medical doctor or healthcare provider who evaluates your health history to determine candidacy and prescribe the right plan for you."
+    },
+    {
+      "question": "How do GLP-1 weight loss treatments work?",
+      "answer": "GLP-1 medications mimic a natural hormone involved in appetite and digestion. This can reduce appetite and slow stomach emptying, so some patients feel full sooner and eat less. Results vary."
+    },
+    {
+      "question": "Will I lose muscle while losing weight?",
+      "answer": "Weight loss can include loss of lean mass as well as fat. Your provider may recommend protein targets and strength activity to help support muscle, but outcomes vary."
+    },
+    {
+      "question": "How do I get started?",
+      "answer": "Simply call our clinic or book an appointment online! You will talk with a licensed doctor who will review your health, answer your questions, and start your custom plan."
+    },
+    {
+      "question": "What is the difference between semaglutide and tirzepatide?",
+      "answer": "Both medications mimic gut hormones that help control appetite and blood sugar. Semaglutide acts on the GLP-1 receptor. Tirzepatide acts on both the GLP-1 and GIP receptors. Your provider chooses between them based on your health history, your goals and how you respond, and neither is right for everyone."
+    },
+    {
+      "question": "Are compounded GLP-1 medications FDA-approved?",
+      "answer": "No. Compounded medications are prepared by a licensed pharmacy for an individual patient and are not FDA-approved. FDA-approved versions are sold under brand names. Your provider will explain which options are available to you and how they differ in sourcing and cost."
+    },
+    {
+      "question": "Who qualifies for medical weight loss?",
+      "answer": "Eligibility is a clinical decision. FDA-approved weight-management labeling for these medications generally covers adults with a body mass index (BMI) of 30 or higher, or 27 or higher with a weight-related condition such as high blood pressure or type 2 diabetes. Your provider reviews your history, medications and labs before recommending any plan."
+    }
+  ],
+  "providerLine": "Services provided by <a href=\"/team\">Sean Worix, PA-C</a> under the medical direction of <a href=\"/team\">Micah Andrew Craig, M.D.</a>",
+  "localArea": {
+    "headline": "Medical Weight Loss in St. Petersburg, FL",
+    "body": "<p>OVI Wellness provides physician-led weight loss care at <strong>5029 Central Ave, Room 2, St. Petersburg, FL 33710</strong>, in Pinellas County. Our weight loss clinic serves St. Petersburg, nearby Pinellas County communities and the wider Tampa Bay area for GLP-1 evaluations, lab work and follow-up visits.</p><p>Visits are by appointment. Call <a href=\"tel:+17274768966\">(727) 476-8966</a> or use the booking button on this page, and see the map below for directions.</p>"
+  }
+}

@@ -1,0 +1,409 @@
+{
+  "id": "peptides",
+  "type": "core",
+  "tabLabel": "Peptide Therapy",
+  "href": "peptides",
+  "title": "Peptide-Related Consultation",
+  "lead": "Clinical evaluation to support the body's natural processes related to joint well-being and cellular recovery.",
+  "description": "Peptide therapy is a prescription option that a licensed clinician may consider for patients interested in support for joint comfort, recovery, sleep and body composition. Whether it is appropriate for you is decided after a medical evaluation. Results vary.",
+  "icon": "fa-vial",
+  "delay": "-2s",
+  "features": [
+    "Support for joint, tendon & muscle recovery",
+    "Support for restful sleep",
+    "Support for gut & immune health",
+    "Supervised by licensed clinicians"
+  ],
+  "image": "assets/images/photos/peptide-therapy.jpg",
+  "ctaText": "Book Your Doctor Consultation",
+  "pageTitle": "Peptide Therapy Clinic in St. Petersburg, FL | OVI Wellness",
+  "pageDescription": "Doctor-prescribed peptide therapy in St. Petersburg, FL for recovery, sleep and body composition, with labs and medical monitoring. Book a consult.",
+  "heroHeadline": "Peptide Therapy<br><span class=\"text-primary\">Under Physician Care</span>",
+  "heroTitle": "Peptide Therapy in St. Petersburg, FL",
+  "heroSubheadline": "Prescription Peptide protocols, physician-led and overseen by a board-certified doctor in St. Petersburg, FL.",
+  "heroCTA": "Book Your Doctor Call Today",
+  "quiz": {
+    "badge": "Quick 1-Minute Assessment",
+    "headline": "Find Your Best Healing Plan",
+    "subheadline": "Answer 3 quick questions so our doctors can help you pick the right plan.",
+    "step1": {
+      "question": "What is your biggest daily struggle?",
+      "sub": "Pick what you want to fix first.",
+      "options": [
+        {
+          "value": "pain",
+          "icon": "fa-crutch",
+          "title": "Joint & Muscle Pain",
+          "desc": "Sore joints, slow injury healing, or morning stiffness."
+        },
+        {
+          "value": "performance",
+          "icon": "fa-stopwatch",
+          "title": "Slow Workout Recovery",
+          "desc": "Stuck on progress, slow to bounce back after exercise."
+        },
+        {
+          "value": "energy",
+          "icon": "fa-battery-quarter",
+          "title": "Fatigue & Low Energy",
+          "desc": "Tired all day, poor sleep, or brain fog."
+        },
+        {
+          "value": "body",
+          "icon": "fa-fire",
+          "title": "Body Composition",
+          "desc": "Holding extra weight despite eating clean and exercising."
+        }
+      ]
+    },
+    "step2": {
+      "question": "How long have you felt this way?",
+      "sub": "Helps our doctor choose your starting plan.",
+      "options": [
+        {
+          "value": "short",
+          "icon": "fa-calendar",
+          "title": "Under 3 Months",
+          "desc": "Recent issue or new workout injury."
+        },
+        {
+          "value": "medium",
+          "icon": "fa-calendar-alt",
+          "title": "3–12 Months",
+          "desc": "Has been bothering me for several months."
+        },
+        {
+          "value": "long",
+          "icon": "fa-calendar-check",
+          "title": "1+ Years",
+          "desc": "Long-term joint pain or chronic fatigue."
+        }
+      ]
+    },
+    "step3": {
+      "question": "What is your main goal right now?",
+      "sub": "Helps set a clear timeline for your results.",
+      "options": [
+        {
+          "value": "train",
+          "icon": "fa-dumbbell",
+          "title": "Get Back to Workouts",
+          "desc": "Move without pain and exercise with full strength."
+        },
+        {
+          "value": "muscle",
+          "icon": "fa-chart-line",
+          "title": "Build Lean Muscle",
+          "desc": "Gain functional strength and recover faster."
+        },
+        {
+          "value": "feel",
+          "icon": "fa-brain",
+          "title": "Wake Up Energized",
+          "desc": "Enjoy deep sleep, clear focus, and high energy."
+        },
+        {
+          "value": "fat",
+          "icon": "fa-weight",
+          "title": "Support Fat Loss",
+          "desc": "Support fat loss while keeping strong muscle."
+        }
+      ]
+    },
+    "protocols": {
+      "pain": {
+        "tag": "Recommended Joint Repair Plan",
+        "name": "The Total Joint & Tissue Reset",
+        "peptides": "Options selected per clinical protocol",
+        "icon": "fa-shield-alt",
+        "desc": "A doctor-prescribed option your provider may consider for joint, tendon and muscle recovery, if it is clinically appropriate.",
+        "goalModifiers": {
+          "train": "May be considered by your provider as part of a plan to support a return to activity.",
+          "muscle": "May be considered as part of a plan to support recovery and muscle rebuilding.",
+          "feel": "May be considered as part of a plan to support joint comfort and rest.",
+          "fat": "May be considered as part of a plan to help you stay active."
+        },
+        "social": "Over 60 local patients completed this recovery plan in the last 90 days."
+      },
+      "performance": {
+        "tag": "Strength & Growth Plan",
+        "name": "Peak Performance & Growth Stack",
+        "peptides": "Clinical and metabolic options",
+        "icon": "fa-dumbbell",
+        "desc": "A prescription option your provider may consider for patients interested in support for lean muscle, recovery and strength, if clinically appropriate.",
+        "goalModifiers": {
+          "train": "May be considered by your provider as part of a plan to support training and recovery.",
+          "muscle": "May be considered as part of a plan to support lean muscle goals.",
+          "feel": "May be considered as part of a plan to support sleep and energy.",
+          "fat": "May be considered alongside diet and exercise for body-composition goals."
+        },
+        "social": "88 patients are currently running this doctor-prescribed stack."
+      },
+      "energy": {
+        "tag": "Cellular Energy Plan",
+        "name": "Total Body Energy & Focus Reset",
+        "peptides": "Cellular Energy & Recovery Protocol",
+        "icon": "fa-bolt",
+        "desc": "A prescription option your provider may consider for patients dealing with fatigue or low energy, after other possible causes are evaluated.",
+        "goalModifiers": {
+          "train": "May be considered as part of a plan to support endurance and training.",
+          "muscle": "May be considered as part of a plan to support recovery after training.",
+          "feel": "May be considered as part of a plan to support energy and mental clarity.",
+          "fat": "May be considered as part of a plan alongside diet and exercise."
+        },
+        "social": "44 local patients started this energy plan in the last 60 days."
+      },
+      "body": {
+        "tag": "Body Composition Plan",
+        "name": "Lean Muscle & Body Composition Support",
+        "peptides": "Protocols selected after clinical evaluation",
+        "icon": "fa-fire",
+        "desc": "A prescription option your provider may consider alongside nutrition and exercise for body-composition goals.",
+        "goalModifiers": {
+          "train": "May be considered as part of a plan to support training.",
+          "muscle": "May be considered alongside diet and exercise for body-composition goals.",
+          "feel": "May be considered as part of a plan to support sleep and daily focus.",
+          "fat": "Designed for body-composition goals alongside diet and exercise."
+        },
+        "social": "73 patients completed this fat burn protocol recently."
+      }
+    },
+    "timelineMap": {
+      "short": "6–8 weeks (Fast Recovery Plan)",
+      "medium": "8–12 weeks (Standard Doctor Plan)",
+      "long": "12–16 weeks (Full Reset Plan)"
+    }
+  },
+  "eligibility": {
+    "badge": "Who Is This For?",
+    "headline": "Are You a Candidate for Peptide Care?",
+    "intro": "Peptide therapy is prescribed only after an evaluation by a licensed clinician, who may order bloodwork first. Whether it is appropriate for you is a clinical decision.",
+    "note": "Questions about candidacy? Our medical team will guide you during your consultation.",
+    "ctaText": "Call Us Now to Check Candidacy",
+    "items": [
+      {
+        "label": "Joint & Muscle Pain",
+        "detail": "Adults dealing with joint stiffness, slow injury healing, or tendon pain."
+      },
+      {
+        "label": "Tired & Slow Recovery",
+        "detail": "Anyone taking days to recover from exercise or feeling constantly worn out."
+      },
+      {
+        "label": "Tried OTC Supplements",
+        "detail": "People who took store vitamins or joint pills without getting real relief."
+      },
+      {
+        "label": "Want Muscle & Deep Sleep",
+        "detail": "Active men and women interested in support for body composition, sleep, and recovery."
+      },
+      {
+        "label": "Ready for Doctor Care",
+        "detail": "Looking for doctor-prescribed care with regular check-ins."
+      }
+    ]
+  },
+  "protocols": {
+    "badge": "Prescription Options",
+    "sectionHeadline": "Simple Doctor-Guided Treatments",
+    "sectionSubheadline": "Doctor-prescribed peptide options tailored to your body after a medical consultation.",
+    "items": [
+      {
+        "icon": "fa-running",
+        "name": "Recovery & Tissue Support",
+        "tag": "Joint Support",
+        "description": "Supports joint comfort, tissue recovery, and training response when clinically appropriate."
+      },
+      {
+        "icon": "fa-kit-medical",
+        "name": "Combination Options",
+        "tag": "Wellness",
+        "description": "Your provider may consider combined therapies based on your clinical needs."
+      },
+      {
+        "icon": "fa-dumbbell",
+        "name": "Wellness & Recovery Support",
+        "tag": "Sleep & Recovery",
+        "description": "Additional options for recovery and vitality under medical supervision."
+      },
+      {
+        "icon": "fa-bolt-lightning",
+        "name": "Body Composition Support",
+        "tag": "Body Composition",
+        "description": "Used alongside lifestyle measures to support body-composition goals."
+      },
+      {
+        "icon": "fa-battery-full",
+        "name": "Antioxidant Support",
+        "tag": "Cellular Defense",
+        "description": "Medically guided antioxidant support, when clinically appropriate."
+      },
+      {
+        "icon": "fa-flask",
+        "name": "Doctor Blood Check",
+        "tag": "Baseline Labs",
+        "description": "Simple lab work so your doctor can check your baseline health and help decide whether and how to start treatment."
+      }
+    ],
+    "notice": "Compounded medications are not FDA-approved. The FDA does not review compounded medications for safety, effectiveness, or quality before they are marketed. These products are prepared by a licensed pharmacy for individual patients when a licensed clinician determines that an FDA-approved product does not meet that patient’s specific clinical needs."
+  },
+  "science": {
+    "badge": "How It Works",
+    "headline": "How Peptide Therapy<br><span class=\"text-primary\">Differs From Supplements</span>",
+    "body": "Peptides are short chains of amino acids that act as signals in the body. Peptide therapy is prescribed by a licensed clinician after an evaluation, which differs from over-the-counter supplements that are not individually prescribed. The peptides prescribed here are compounded and are not FDA-approved. Whether any option is right for you is a clinical decision, and results vary.",
+    "bullets": [
+      "Prescribed by real licensed medical doctors",
+      "Prepared by a licensed compounding pharmacy",
+      "Prescribed only after a medical evaluation"
+    ],
+    "stats": [
+      {
+        "value": "Individual",
+        "label": "Timelines and results vary by person"
+      },
+      {
+        "value": "Monitored",
+        "label": "Licensed clinician oversight & lab monitoring"
+      },
+      {
+        "value": "Licensed",
+        "label": "Prepared by a licensed pharmacy"
+      },
+      {
+        "icon": "fa-user-md",
+        "label": "Licensed Provider Oversight"
+      }
+    ],
+    "cards": [
+      {
+        "icon": "fa-vial",
+        "title": "Compounded & Prescribed",
+        "detail": "Compounded peptides are prepared by a licensed pharmacy for an individual patient and prescribed by a licensed healthcare provider. They are not FDA-approved."
+      },
+      {
+        "icon": "fa-bullseye",
+        "title": "How Peptides Work",
+        "detail": "Peptides are signaling molecules. How a given peptide acts, and whether it is appropriate for you, depends on the specific compound and your health history."
+      }
+    ]
+  },
+  "myths": [
+    {
+      "myth": "Are peptides just anabolic steroids?",
+      "reality": "No. Peptides are short chains of amino acids and are not anabolic steroids. Different peptides have different effects and risks, which your provider will review with you."
+    },
+    {
+      "myth": "Do I have to do this forever?",
+      "reality": "Not necessarily. Plan length depends on the peptide and your clinical goals, and your provider will review it with you. Results vary."
+    },
+    {
+      "myth": "How is peptide therapy supervised?",
+      "reality": "Peptide therapy is prescribed by a licensed clinician after an evaluation and monitored over time. Compounded medications are not FDA-approved, and the FDA does not review them for safety, effectiveness, or quality. All treatments carry risks, which your provider will discuss with you."
+    }
+  ],
+  "comparison": {
+    "headline": "Doctor-Guided Care vs. Doing It Alone",
+    "subheadline": "See how doctor supervision differs from doing it alone.",
+    "ctaText": "Call Our Clinic Today",
+    "mobileStats": [
+      {
+        "icon": "fa-bolt",
+        "label": "Recovery Support"
+      },
+      {
+        "icon": "fa-fire",
+        "label": "Body Composition"
+      },
+      {
+        "icon": "fa-brain",
+        "label": "Focus & Energy"
+      },
+      {
+        "icon": "fa-shield-alt",
+        "label": "Doctor Checked"
+      }
+    ],
+    "rows": [
+      {
+        "metric": "Recovery Speed",
+        "without": "Self-directed, no clinical guidance",
+        "with": "Guided by a licensed clinician"
+      },
+      {
+        "metric": "Joint Comfort",
+        "without": "Over-the-counter products only",
+        "with": "Evaluated and monitored by a clinician"
+      },
+      {
+        "metric": "Daily Energy",
+        "without": "Underlying causes not evaluated",
+        "with": "Medical history and labs reviewed"
+      },
+      {
+        "metric": "Sleep Quality",
+        "without": "No medical review",
+        "with": "Individualized plan; results vary"
+      },
+      {
+        "metric": "Medical Oversight",
+        "without": "Unregulated web products",
+        "with": "Doctor-prescribed & lab checked"
+      }
+    ],
+    "stacks": [
+      {
+        "name": "Joint & Tissue Repair Stack",
+        "tag": "Most Popular",
+        "compounds": "Options selected per clinical protocol",
+        "description": "Combines options for joint comfort and tissue recovery."
+      },
+      {
+        "name": "Growth & Lean Muscle Stack",
+        "tag": "Strength Boost",
+        "compounds": "Metabolic options per clinical evaluation",
+        "description": "For active adults with body-composition goals who want lean-muscle support and better sleep, when clinically appropriate."
+      },
+      {
+        "name": "Total Bioenergetic Reset",
+        "tag": "Full Vitality",
+        "compounds": "Clinical and cellular support options",
+        "description": "Supports energy, focus and endurance under medical supervision."
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "question": "Do I need a doctor's prescription for peptide therapy?",
+      "answer": "Yes. All clinical peptide protocols are prescription medications. You will consult with our licensed medical doctor who evaluates your health and orders bloodwork before prescribing your custom plan."
+    },
+    {
+      "question": "What does the doctor-guided peptide program include?",
+      "answer": "Your program includes direct medical consultations with a board-certified doctor, baseline blood testing, custom compounded peptides prepared by a licensed pharmacy, and ongoing check-ins. Compounded peptides are not FDA-approved."
+    },
+    {
+      "question": "How are peptide treatments administered?",
+      "answer": "Most peptide protocols use tiny, virtually painless subcutaneous injections using micro-needles (done at home or in clinic). Some peptides are also available as oral capsules or nasal sprays based on doctor recommendations."
+    },
+    {
+      "question": "How fast will I see results from peptide therapy?",
+      "answer": "Timelines vary by person and by protocol. Your provider will monitor your progress over the first several weeks. Results vary."
+    },
+    {
+      "question": "Can I combine peptides with TRT or hormone therapy?",
+      "answer": "Some patients use peptides alongside TRT or hormone therapy. Whether combining them is appropriate is a clinical decision that your provider makes after reviewing your history and labs."
+    },
+    {
+      "question": "How do I get started with peptide therapy?",
+      "answer": "Getting started is simple! Call our clinic today at (727) 476-8966 or click 'Book Your Doctor Consultation' online. Our doctor will review your health, order any necessary bloodwork, and start your custom healing plan."
+    },
+    {
+      "question": "Are compounded peptides FDA-approved?",
+      "answer": "No. The FDA does not review compounded medications for safety, effectiveness, or quality before they are marketed. These products are prepared by a licensed pharmacy for individual patients when a licensed clinician determines that an FDA-approved product does not meet that patient’s specific clinical needs. Your provider will explain the options available to you and the risks of each."
+    }
+  ],
+  "providerLine": "Services provided by <a href=\"/team\">Sean Worix, PA-C</a> under the medical direction of <a href=\"/team\">Micah Andrew Craig, M.D.</a>",
+  "localArea": {
+    "headline": "Peptide Therapy in St. Petersburg, FL",
+    "body": "<p>OVI Wellness is a physician-led peptide therapy clinic at <strong>5029 Central Ave, Room 1, St. Petersburg, FL 33710</strong>, in Pinellas County. Care starts with a medical consultation and a review of your history and goals, with lab work when your provider recommends it, and a plan is made only if peptide therapy is appropriate for you. We serve St. Petersburg, nearby Pinellas County communities and the wider Tampa Bay area.</p><p>Visits are by appointment. Call <a href=\"tel:+17274768966\">(727) 476-8966</a> or use the booking button on this page, and see the map below for directions.</p>"
+  }
+}

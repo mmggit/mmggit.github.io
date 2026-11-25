@@ -1,0 +1,12 @@
+{
+  "seo": {
+    "title": "Página no encontrada — OVI Wellness",
+    "description": "La página que busca no existe."
+  },
+  "notFound": {
+    "code": "404",
+    "title": "Página no encontrada",
+    "description": "Es posible que la página que busca haya sido eliminada, haya cambiado de nombre o no esté disponible temporalmente.",
+    "homeBtn": "Volver al inicio"
+  }
+}
